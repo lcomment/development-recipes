@@ -71,3 +71,4 @@
 ### **참고자료**
 
 - 서적: 2022 시나공 정보처리기사 필기
+- tistory: [코딩팩토리](https://coding-factory.tistory.com/300)
