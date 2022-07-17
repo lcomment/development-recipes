@@ -8,7 +8,8 @@
 <h1></h1>
 
 <h3>Collaborators</h3>
-<a href="https://github.com/lcomment/development-recipes/graphs/contributors">
+<a href="https://github.com/lcomment/development-recipes/graphs/collaborators">
 <img src="https://contrib.rocks/image?repo=lcomment/development-recipes"/>
 </a>
+
 
