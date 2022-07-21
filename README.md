@@ -33,6 +33,7 @@ ex) 💡create: 자바스크립트의 async/await
     - [포트와 포트포워딩](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/port-forwarding.md)
     - [프록시 서버](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/proxy.md)
 - ### Database
+    - [RDBMS와 NoSQL](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/sqlAndNoSql.md)
 - ### Software Engineering
 - ### Data Structure
 - ### Algorithm
