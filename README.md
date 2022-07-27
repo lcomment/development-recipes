@@ -37,6 +37,7 @@ ex) 💡create: 자바스크립트의 async/await
 - ### Software Engineering
 - ### Data Structure
 - ### Algorithm
+    - [다익스트라 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dijkstra.md)
 
 </br>
 
