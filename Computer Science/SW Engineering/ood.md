@@ -51,7 +51,7 @@
 ### **추가자료**
 
 - OOP란? [Object Oriented Programming](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/oop.md)
-- 객체지향 개발 5대 원리! [SOLID]()
+- 객체지향 개발 5대 원리! [SOLID](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/solid.md)
 
 </br>
 
