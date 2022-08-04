@@ -9,9 +9,9 @@
 
 <h3>Collaborators</h3>
 
-| <img src="https://avatars.githubusercontent.com/u/56003992?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/86272688?v=4" width="100"> |
-| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-|                   [@lcomment](https://github.com/lcomment)                   |                   [@YongsHub](https://github.com/YongsHub)                   |
+| <img src="https://avatars.githubusercontent.com/u/56003992?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/86272688?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/86949394?v=4" width=150> |
+| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+|                   [@lcomment](https://github.com/lcomment)                   |                   [@YongsHub](https://github.com/YongsHub)                   |                  [@himJJong](https://github.com/himJJong)                  |
 
 </br>
 
