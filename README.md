@@ -9,13 +9,22 @@
 
 <h3>Collaborators</h3>
 
-| <img src="https://avatars.githubusercontent.com/u/56003992?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/59721896?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/86272688?v=4" width="100"> |
-| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-|                   [@lcomment](https://github.com/lcomment)                   |                [@seolhee2750](https://github.com/seolhee2750)                |                   [@YongsHub](https://github.com/YongsHub)                   |
+| <img src="https://avatars.githubusercontent.com/u/56003992?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/86272688?v=4" width="100"> |
+| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|                   [@lcomment](https://github.com/lcomment)                   |                   [@YongsHub](https://github.com/YongsHub)                   |
+
+</br>
+
+<h3>Contributors</h3>
+<a href="https://github.com/lcomment/development-recipes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lcomment/development-recipes" />
+</a>
+
+</br>
 
 <h3>Commit Convention</h3>
 
-→ {**tag**}: {**content**}  
+→ {**`tag`**}: {**`content`**}  
 ex) 💡create: 자바스크립트의 async/await
 
 | 태그 | 💡create |   👆add   |  🛠revise  |     🧹delete      |   🎀style   |
