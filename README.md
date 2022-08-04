@@ -62,6 +62,7 @@ ex) 💡create: 자바스크립트의 async/await
 
 ## **Ch04. Web**
 
+- [ORM](https://github.com/lcomment/development-recipes/blob/main/Web/orm.md)
 - [OAuth 2.0](https://github.com/lcomment/development-recipes/blob/main/Web/OAuth2.0.md)
 
 </br>
@@ -85,3 +86,5 @@ ex) 💡create: 자바스크립트의 async/await
 ## **Ch06. Web - Spring**
 
 - [[Spring] 스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutSpring.md)
+- [[JPA] JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpaHibernate.md)
+- [[JPA] 더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/dirtyChecking.md)
