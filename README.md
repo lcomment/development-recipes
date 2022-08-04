@@ -86,5 +86,6 @@ ex) 💡create: 자바스크립트의 async/await
 ## **Ch06. Web - Spring**
 
 - [[Spring] 스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutSpring.md)
+- [[Spring] 스프링 컨테이너와 핵심원리](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springContainer.md)
 - [[JPA] JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpaHibernate.md)
 - [[JPA] 더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/dirtyChecking.md)
