@@ -13,9 +13,18 @@
 | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 |                   [@lcomment](https://github.com/lcomment)                   |                   [@YongsHub](https://github.com/YongsHub)                   |
 
+</br>
+
+<h3>Contributors</h3>
+<a href="https://github.com/lcomment/development-recipes/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lcomment/development-recipes" />
+</a>
+
+</br>
+
 <h3>Commit Convention</h3>
 
-→ {**tag**}: {**content**}  
+→ {**`tag`**}: {**`content`**}  
 ex) 💡create: 자바스크립트의 async/await
 
 | 태그 | 💡create |   👆add   |  🛠revise  |     🧹delete      |   🎀style   |
