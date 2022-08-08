@@ -1,2 +1,5 @@
 # os
 .DS_Store
+
+# IntelliJ IDEA
+.idea
