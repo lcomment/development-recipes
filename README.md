@@ -47,6 +47,7 @@ ex) 💡create: 자바스크립트의 async/await
     - [객체 지향 개발방법론 (Object-Oriented Design)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/ood.md)
       - [객체 지향 프로그래밍 (Object-Oriented Programming)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/oop.md)
       - [SOLID](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/solid.md)
+    - [팩토리 패턴 (Factory Pattern)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/factoryPattern.md)
 - ### Data Structure
 - ### Algorithm
     - [최소 신장 트리 (MST)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/mst.md)
@@ -58,6 +59,10 @@ ex) 💡create: 자바스크립트의 async/await
 ## **Ch02. Language**
 
 - ### Java
+  - [Java의 역사와 특징](https://github.com/lcomment/development-recipes/blob/main/Language/Java/aboutJava.md)
+  - [Java의 자료형](https://github.com/lcomment/development-recipes/blob/main/Language/Java/typeOfJava.md)
+  - [String 클래스](https://github.com/lcomment/development-recipes/blob/main/Language/Java/string.md)
+  - [StringBuilder와 StringBuffer](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stringBuilder.md)
 - ### Python
 - ### Javascript
   - [ES2015의 등장](https://github.com/lcomment/development-recipes/blob/main/Language/JavaScript/ES2015%2B.md)
@@ -96,5 +101,7 @@ ex) 💡create: 자바스크립트의 async/await
 
 - [[Spring] 스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutSpring.md)
 - [[Spring] 스프링 컨테이너와 핵심원리](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springContainer.md)
+- [[Spring] BeanFactory와 BeanDefinition](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutBeanFactory.md)
+- [[Security] Spring Security란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springSecurity.md)
 - [[JPA] JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpaHibernate.md)
 - [[JPA] 더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/dirtyChecking.md)
