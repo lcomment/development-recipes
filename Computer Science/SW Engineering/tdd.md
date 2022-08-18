@@ -6,7 +6,7 @@
 
 &nbsp; 기존 개발 프로세스(`좌측 사진`)는 설계(디자인) 후 코드 개발을 하고 테스트케이스를 작성했다. 이 때문에 초기 설계가 완벽하지 않다면 재설계로 인해 불필요한 코드가 남거나 중복처리 될 가능성이 있다. 이와 다르게 TDD(`우측 사진`)는 설계 이후 테스트케이스를 작성한 후 코드를 개발하여 리펙토링하는 절차를 따른다.
 
-<div class="separator" style="clear: both;">
+<div class="separator" style="clear: both;" align=center>
   <img src='../../resources/swEngineering/tdd1.png' width=300>
   <img src='../../resources/swEngineering/tdd2.png' width=300>
 </div>
