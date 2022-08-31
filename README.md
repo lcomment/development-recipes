@@ -118,4 +118,5 @@ ex) 💡create: 자바스크립트의 async/await
   - [JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpaHibernate.md)
   - [더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/dirtyChecking.md)
 - ### 추가
+  - [mavenCentral과 jcenter](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/mavenCentral.md)
   - [Java 개발의 필수, Lombok](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/lombok.md)
