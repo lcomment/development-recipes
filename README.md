@@ -66,6 +66,7 @@ ex) 💡create: 자바스크립트의 async/await
 - ### Java
   - [Java의 역사와 특징](https://github.com/lcomment/development-recipes/blob/main/Language/Java/aboutJava.md)
   - [Java의 자료형](https://github.com/lcomment/development-recipes/blob/main/Language/Java/typeOfJava.md)
+  - [Scanner와 BufferedReader](https://github.com/lcomment/development-recipes/blob/main/Language/Java/input.md)
   - [String 클래스](https://github.com/lcomment/development-recipes/blob/main/Language/Java/string.md)
   - [StringBuilder와 StringBuffer](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stringBuilder.md)
   - [컬렉션 프레임워크 (Collection Framework)](https://github.com/lcomment/development-recipes/blob/main/Language/Java/collectionFramework.md)
