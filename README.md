@@ -93,7 +93,24 @@ ex) 💡create: 자바스크립트의 async/await
 
 </br>
 
-## **Ch05. Web - Node js**
+## **Ch05. Web - Spring**
+
+- ### Spring
+  - [스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutSpring.md)
+  - [스프링 컨테이너와 핵심원리](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springContainer.md)
+  - [BeanFactory와 BeanDefinition](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutBeanFactory.md)
+- ### Security
+  - [Spring Security란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springSecurity.md)
+- ### JPA
+  - [JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpa.md)
+  - [더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/dirtyChecking.md)
+- ### 추가
+  - [mavenCentral과 jcenter](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/mavenCentral.md)
+  - [Java 개발의 필수, Lombok](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/lombok.md)
+
+</br>
+
+## **Ch06. Web - Node js**
 
 - ### Node js
   - [Node란?]()
@@ -106,20 +123,3 @@ ex) 💡create: 자바스크립트의 async/await
   - Overview
     - [MiddleWare](https://github.com/lcomment/development-recipes/blob/main/Web-Node/Nest%20js/Overview/middleware.md)
     - [Exception Filters](https://github.com/lcomment/development-recipes/blob/main/Web-Node/Nest%20js/Overview/exceptionfilters.md)
-
-</br>
-
-## **Ch06. Web - Spring**
-
-- ### Spring
-  - [스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutSpring.md)
-  - [스프링 컨테이너와 핵심원리](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springContainer.md)
-  - [BeanFactory와 BeanDefinition](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutBeanFactory.md)
-- ### Security
-  - [Spring Security란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springSecurity.md)
-- ### JPA
-  - [JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpaHibernate.md)
-  - [더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/dirtyChecking.md)
-- ### 추가
-  - [mavenCentral과 jcenter](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/mavenCentral.md)
-  - [Java 개발의 필수, Lombok](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/lombok.md)
