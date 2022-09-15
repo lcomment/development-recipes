@@ -53,6 +53,7 @@ ex) 💡create: 자바스크립트의 async/await
 - ### Data Structure
 - ### Algorithm
     - [조합 (Combination)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/combination.md)
+    - [카탈란 수 (Catalan Number)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/catalan.md)
     - [문자열 탐색](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/substring.md)
       - [KMP 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kmp.md)
       - [Rabin-karp 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/rabinKarp.md)
