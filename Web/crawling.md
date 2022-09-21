@@ -18,7 +18,7 @@
 
 - 파이썬
   - beautifulsoup
-  - selenium
+  - [selenium](https://github.com/lcomment/development-recipes/blob/main/Language/Python/selenium.md)
 - 자바
   - jsoup
 - 툴
