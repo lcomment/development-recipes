@@ -58,8 +58,10 @@ ex) 💡create: 자바스크립트의 async/await
       - [KMP 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kmp.md)
       - [Rabin-karp 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/rabinKarp.md)
     - [최소 신장 트리 (MST)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/mst.md)
-      - [크루스칼 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kruskal.md)
-    - [다익스트라 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dijkstra.md)
+      - [크루스칼 알고리즘 (Kruskal)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kruskal.md)
+    - [단일 출발지 최단 경로 구하기 (Single-Source Shortest Path)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/shortestPath.md)
+      - [다익스트라 알고리즘 (Dijkstra)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dijkstra.md)
+      - [벨만-포드 알고리즘 (Bellman-Ford)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bellmanFord.md)
 
 </br>
 
@@ -78,6 +80,8 @@ ex) 💡create: 자바스크립트의 async/await
     - [Iterator와 ListIterator](https://github.com/lcomment/development-recipes/blob/main/Language/Java/iteratorNlistiterator.md)
   - [Java의 람다식](https://github.com/lcomment/development-recipes/blob/main/Language/Java/lambda.md)
 - ### Python
+  - 라이브러리
+    - [selenium](https://github.com/lcomment/development-recipes/blob/main/Language/Python/selenium.md)
 - ### Javascript
   - [ES2015의 등장](https://github.com/lcomment/development-recipes/blob/main/Language/JavaScript/ES2015%2B.md)
   - [async/await](https://github.com/lcomment/development-recipes/blob/main/Language/JavaScript/asyncAwait.md)
