@@ -21,7 +21,7 @@
 
 > ### 3. 클라우드 컴퓨팅 서비스 이용 방식
 
-<p align=center><img src='../../resources/aws/cloudservice.png' width=400></p>
+<p align=center><img src='../../resources/aws/cloudService.png' width=400></p>
 
 - **Iaas**
   - Infrastructure-as-a-Services
