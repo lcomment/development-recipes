@@ -52,16 +52,21 @@ ex) 💡create: 자바스크립트의 async/await
     - [팩토리 패턴 (Factory Pattern)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/factoryPattern.md)
 - ### Data Structure
 - ### Algorithm
-    - [조합 (Combination)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/combination.md)
+    - [완전탐색 (Brute-Force)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bruteForce.md)
+      - [순열 (Permutation)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/permutation.md)
+      - [조합 (Combination)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/combination.md)
+    - 그래프 탐색
+      - [깊이 우선 탐색 (DFS)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dfs.md)
+      - [너비 우선 탐색 (BFS)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bfs.md)
+    - [단일 출발지 최단 경로 구하기 (Single-Source Shortest Path)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/shortestPath.md)
+      - [다익스트라 알고리즘 (Dijkstra)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dijkstra.md)
+      - [벨만-포드 알고리즘 (Bellman-Ford)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bellmanFord.md)
     - [카탈란 수 (Catalan Number)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/catalan.md)
     - [문자열 탐색](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/substring.md)
       - [KMP 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kmp.md)
       - [Rabin-karp 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/rabinKarp.md)
     - [최소 신장 트리 (MST)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/mst.md)
       - [크루스칼 알고리즘 (Kruskal)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kruskal.md)
-    - [단일 출발지 최단 경로 구하기 (Single-Source Shortest Path)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/shortestPath.md)
-      - [다익스트라 알고리즘 (Dijkstra)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dijkstra.md)
-      - [벨만-포드 알고리즘 (Bellman-Ford)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bellmanFord.md)
 
 </br>
 
