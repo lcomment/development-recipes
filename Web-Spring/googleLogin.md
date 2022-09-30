@@ -14,44 +14,44 @@
 
 &nbsp; 먼저 [구글 클라우드 플랫폼 주소](https://console.cloud.google.com/)로 이동하여 구글 서비스를 등록해야 한다. 접속 후 상단의 `[프로젝트 선택]` 탭을 클릭하여 `[새 프로젝트]`를 생성한다.
 
-<img src='../resources/spring/security/google/googleLogin1.png' width=300>
+<img src='../resources/spring/security/google/googleLogin1.png' width=400>
 
 <br>
 
 &nbsp; 위과 같이 프로젝트를 생성해주고, 좌측 메뉴 탭을 클릭하여 `[API 및 서비스]` 카테고리의 `[사용자 인증 정보]`를 클릭한다. `사용자 인증 정보` 화면의 `사용자 인증 정보 만들기`에는 여러 메뉴가 있지만, 이 글에서는 `OAuth 클라이언트 ID`로 구현할 것이다. `OAuth 클라이언트 ID`를 클릭해준다.
 
-<img src='../resources/spring/security/google/googleLogin2.png' width=300>&nbsp;&nbsp;&nbsp;&nbsp;<img src='../resources/spring/security/google/googleLogin3.png' width=300>
+<img src='../resources/spring/security/google/googleLogin2.png' width=500>&nbsp;&nbsp;&nbsp;&nbsp;<img src='../resources/spring/security/google/googleLogin3.png' width=300>
 
 <br>
 
 &nbsp; 외부를 선택해주고,
 
-<img src='../resources/spring/security/google/googleLogin4-1.png' width=300>
+<img src='../resources/spring/security/google/googleLogin4-1.png' width=500>
 
 <br>
 
 &nbsp; 다음과 같이 정보를 입력해준다.
 
-<img src='../resources/spring/security/google/googleLogin4-2.png' width=300>
+<img src='../resources/spring/security/google/googleLogin4-2.png' width=500>
 
 <br>
 
 &nbsp; `Google API`의 범위는 다음과 같이 세 가지를 선택했다. 기본값이 선택한 email, profile, openid다.
 
-<img src='../resources/spring/security/google/googleLogin4-3.png' width=400>
+<img src='../resources/spring/security/google/googleLogin4-3.png' width=600>
 
 <br>
 
 &nbsp; 테스트 사용자는 넘어간 후 요약까지 확인하고 저장한다. 다음 `OAuth 클라이언트 ID 만들기` 화면으로 이동해준다.
 
-<img src='../resources/spring/security/google/googleLogin5.png' width=400>
+<img src='../resources/spring/security/google/googleLogin5.png' width=500>
 
 <br>
 
 &nbsp; 애플리케이션 유형에서 `웹 애플리케이션`을 골라주고 애플리케이션의 이름을 적어준다. `승인된 리디렉션 URI`에는 우측하단의 사진과 같이 적어준다. 스프링 부트 v2의 Security에서는 기본적으로 `{Domain}/login/oauth2/code/{Social Service Code}`로 리다이렉트 URL을 지원하고 있기 때문이다. 개발 단계에서는 사진과 같이 `localhost`로 등록하고, 이후 배포를 진행한다면 추가로 `도메인`으로 등록해주면 된다.
 
-<img src='../resources/spring/security/google/googleLogin6-1.png' width=300>
-<img src='../resources/spring/security/google/googleLogin6-2.png' width=300>
+<img src='../resources/spring/security/google/googleLogin6-1.png' width=500>
+<img src='../resources/spring/security/google/googleLogin6-2.png' width=500>
 
 <br>
 
