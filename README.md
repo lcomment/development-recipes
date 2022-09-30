@@ -116,6 +116,7 @@ ex) 💡create: 자바스크립트의 async/await
   - [BeanFactory와 BeanDefinition](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutBeanFactory.md)
 - ### Security
   - [Spring Security란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springSecurity.md)
+  - [Google 간편 로그인 연동하기](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/googleLogin.md)
 - ### JPA
   - [JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpa.md)
   - [JPQL (Java Persistence Query Language))](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpql.md)
