@@ -4,10 +4,6 @@
 
 &nbsp; 순열과 마찬가지로 조합 또한 많이 쓰이는 알고리즘이다. 만약 `C++`을 사용한다면 algorithm 라이브러리의 `prev_permutation()` 함수를 이용하여 조합을 간단하게 구현해주면 되고, `python`을 사용한다면 그보다 더 쉽게 `from itertools import combinations`로 조합을 import 해준 후 `combinations()` 함수를 사용하면 된다. `Java`는 순열과 마찬가지로 존재하지 않아 구현해줘야 한다. 방법이 여러가지 있지만, 다음 예제는 `백트래킹`으로 구현한 것이다.
 
-<br>
-
-## 구현
-
 ```java
 // combination(arr, visited, 0, n, r, 0)
 
