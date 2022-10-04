@@ -39,7 +39,6 @@ ex) 💡create: 자바스크립트의 async/await
 - ### Operating System
     - [운영체제란?](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/operatingSystem.md)
 - ### Network
-    - [REST API](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/restApi.md)
     - [포트와 포트포워딩](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/port-forwarding.md)
     - [프록시 서버](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/proxy.md)
 - ### Database
@@ -102,6 +101,8 @@ ex) 💡create: 자바스크립트의 async/await
 
 ## **Ch04. Web**
 
+- [REST API](https://github.com/lcomment/development-recipes/blob/main/Web/restApi.md)
+- [PUT과 PATCH의 차이](https://github.com/lcomment/development-recipes/blob/main/Web/putNpatch.md)
 - [웹 크롤링 (Web Crawling)](https://github.com/lcomment/development-recipes/blob/main/Web/crawling.md)
 - [ORM (Object-Relational Mapping)](https://github.com/lcomment/development-recipes/blob/main/Web/orm.md)
 - [OAuth 2.0](https://github.com/lcomment/development-recipes/blob/main/Web/OAuth2.0.md)
