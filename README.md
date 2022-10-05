@@ -49,6 +49,7 @@ ex) 💡create: 자바스크립트의 async/await
       - [객체 지향 프로그래밍 (Object-Oriented Programming)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/oop.md)
       - [SOLID](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/solid.md)
     - [팩토리 패턴 (Factory Pattern)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/factoryPattern.md)
+    - [MVC 패턴 (MVC Pattern)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/mvc.md)
 - ### Data Structure
 - ### Algorithm
     - [완전탐색 (Brute-Force)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bruteForce.md)
