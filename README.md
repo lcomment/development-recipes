@@ -42,6 +42,9 @@ ex) 💡create: 자바스크립트의 async/await
     - [포트와 포트포워딩](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/port-forwarding.md)
     - [프록시 서버](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/proxy.md)
 - ### Database
+    - [데이터베이스 설계](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/dbDesign.md)
+    - [관계형 데이터베이스 (RDB)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/rdb.md)
+    - [키 (Key)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/key.md)
     - [RDBMS와 NoSQL](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/sqlAndNoSql.md)
 - ### Software Engineering
     - [테스트 주도 개발방법론 (Test-Driven Development)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/tdd.md)
