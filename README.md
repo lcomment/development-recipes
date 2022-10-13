@@ -39,6 +39,15 @@ ex) 💡create: 자바스크립트의 async/await
 - ### Operating System
     - [운영체제란?](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/operatingSystem.md)
 - ### Network
+    - [OSI 7 Layer](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/osi.md)
+    - [TCP와 UDP](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/tcpNudp.md)
+    - [3-way Handshacking과 4-way Handshacking](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/3wayN4way.md)
+    - TCP/IP
+      - [흐름제어 (Flow Control)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/flowControl.md)
+      - [혼잡제어 (Congestion Control)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/congestionControl.md)
+    - [Blocking/Non-Blocking과 Synchronous/Asynchronous](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/blockNnonNsyncNasync.md)
+    - [HTTP와 HTTPS](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/httpNhttps.md)
+    - [로드 벨런싱 (Load-Balancing)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/loadBalancing.md)
     - [포트와 포트포워딩](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/port-forwarding.md)
     - [프록시 서버](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/proxy.md)
 - ### Database
