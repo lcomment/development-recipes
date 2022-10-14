@@ -117,6 +117,9 @@ ex) 💡create: 자바스크립트의 async/await
 
 ## **Ch04. Web**
 
+- [웹의 동작원리](https://github.com/lcomment/development-recipes/blob/main/Web/web.md)
+- [쿠키(Cookie)와 세션(Session)](https://github.com/lcomment/development-recipes/blob/main/Web/cookieNsession.md)
+- [JWT (Json Web Token)](https://github.com/lcomment/development-recipes/blob/main/Web/jwt.md)
 - [REST API](https://github.com/lcomment/development-recipes/blob/main/Web/restApi.md)
 - [PUT과 PATCH의 차이](https://github.com/lcomment/development-recipes/blob/main/Web/putNpatch.md)
 - [웹 크롤링 (Web Crawling)](https://github.com/lcomment/development-recipes/blob/main/Web/crawling.md)
