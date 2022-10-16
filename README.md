@@ -7,7 +7,7 @@
 </div>
 <h1></h1>
 
-<h3>Collaborators</h3>
+### **👨‍👦‍👦 Collaborators**
 
 | <img src="https://avatars.githubusercontent.com/u/56003992?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/86272688?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/86949394?v=4" width=150> |
 | :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
@@ -15,21 +15,26 @@
 
 </br>
 
-<h3>Contributors</h3>
+### **🤝 Contributors**
+
 <a href="https://github.com/lcomment/development-recipes/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=lcomment/development-recipes" />
 </a>
 
 </br>
 
-<h3>Commit Convention</h3>
+### **✍️ Commit Convention**
 
-→ {**`tag`**}: {**`content`**}  
-ex) 💡create: 자바스크립트의 async/await
+→ [**`tag`**]: [**`content`**]  
+ex) 💡create: 자바스크립트의 async/await 이론 작성
 
-| 태그 | 💡create |   👆add   |  🛠revise  |     🧹delete      |   🎀style   |
-| :--: | :------: | :-------: | :-------: | :---------------: | :---------: |
-| 의미 |   생성   | 내용 추가 | 내용 수정 | 내용 및 파일 삭제 | 스타일 변경 |
+| 태그 |   `💡create`   |  `👆add`  | `🛠revise` |    `🧹delete`     |  `🎀style`  |
+| :--: | :------------: | :-------: | :-------: | :---------------: | :---------: |
+| 의미 | 새로운 글 작성 | 내용 추가 | 내용 수정 | 내용 및 파일 삭제 | 스타일 변경 |
+
+<br>
+
+### ❗️원하는 자료나 잘못된 내용은 `Issue`와 `Pull Request`로 남겨주세요❗️
 
 ---
 
