@@ -69,6 +69,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
     - [MVC 패턴 (MVC Pattern)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/mvc.md)
 - ### Data Structure
 - ### Algorithm
+    - [그리디 알고리즘 (Greedy)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/greedy.md)
     - [완전탐색 (Brute-Force)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bruteForce.md)
       - [순열 (Permutation)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/permutation.md)
       - [조합 (Combination)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/combination.md)
@@ -121,6 +122,9 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
   - [Github란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/git/github.md)
 - ### AWS
   - [Cloud와 AWS](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/cloudComputing.md)
+  - [AWS RDS](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/rds.md)
+- ### Terraform
+  - [Terraform이란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/terraform/terraform.md)
 
 </br>
 
