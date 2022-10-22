@@ -108,6 +108,10 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 - ### Javascript
   - [ES2015의 등장](https://github.com/lcomment/development-recipes/blob/main/Language/JavaScript/ES2015%2B.md)
   - [async/await](https://github.com/lcomment/development-recipes/blob/main/Language/JavaScript/asyncAwait.md)
+  - 라이브러리
+    - [jQuery](https://github.com/lcomment/development-recipes/blob/main/Language/JavaScript/jQuery.md)
+- ### Typescript
+  - [타입스크립트 클린코드 작성법](https://github.com/lcomment/development-recipes/blob/main/Language/Typescript/typescript_cleancode.md)
 
 </br>
 
