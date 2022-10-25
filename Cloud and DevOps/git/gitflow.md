@@ -26,7 +26,7 @@
 > ### Vincent Driessen이 소개한 Git-Flow
 
 <p align=center>
-    <img src='../../resources/git/gitFlow.png' width=600>
+    <img src='../../resources/git/gitflow.png' width=600>
 </p>
 
 1. `Master` 브랜치와 `develop` 브랜치를 나누는 것이 핵심
