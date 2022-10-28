@@ -7,7 +7,7 @@
 &nbsp; Spring MVC는 Spring에서 제공하는 웹 모듈로, Model, View, Controller를 활용해 사용자의 다양한 `HTTP Request를 처리`하고, `다양한 형식의 Response`, `View를 리턴`하는 응답까지, 다양한 응답을 할 수 있도록 도와주는 프레임워크이다. 아래의 사진을 보며 Spring MVC의 작동원리에 대해 이해해보자.
 
 <div align=center>
-    <img src='../resources/spring/springMVC.png'>
+    <img src='../../resources/spring/springMVC.png'>
     <H5>출처: https://mangkyu.tistory.com/m/95</H5>
 </div>
 
