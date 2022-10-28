@@ -154,9 +154,9 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
   - [BeanFactory와 BeanDefinition](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutBeanFactory.md)
   - [Spring AOP란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springAOP.md)
 - ### Srping MVC
-  - [Spring MVC Framework란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20/springMvc.md)
-  - [@Controller와 @RestController](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20/controller.md)
-  - [DTO와 DAO, VO](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20/dao_dto_vo.md)
+  - [Spring MVC Framework란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/springMvc.md)
+  - [@Controller와 @RestController](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/controller.md)
+  - [DTO와 DAO, VO](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/dao_dto_vo.md)
 - ### Spring Security
   - [Spring Security란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springSecurity.md)
   - [Google 간편 로그인 연동하기](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/googleLogin.md)
