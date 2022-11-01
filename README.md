@@ -82,6 +82,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
     - [단일 출발지 최단 경로 구하기 (Single-Source Shortest Path)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/shortestPath.md)
       - [다익스트라 알고리즘 (Dijkstra)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dijkstra.md)
       - [벨만-포드 알고리즘 (Bellman-Ford)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bellmanFord.md)
+    - [최장 증가 수열 (LIS)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/lis.md)
     - [카탈란 수 (Catalan Number)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/catalan.md)
     - [문자열 탐색](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/substring.md)
       - [KMP 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kmp.md)
