@@ -58,6 +58,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 - ### Database
     - [데이터베이스 설계](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/dbDesign.md)
     - [관계형 데이터베이스 (RDB)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/rdb.md)
+      - [RDB에서 꼭 지켜야 하는 7가지 네이밍 규칙](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/rdbNaming.md)
     - [키 (Key)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/key.md)
     - [인덱스와 사용하면 안되는 경우](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/index.md)
     - SQL
