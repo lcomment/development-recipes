@@ -173,6 +173,8 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
   - [더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/dirtyChecking.md)
 - ### Spring REST Docs
   - [Spring REST Docs란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20REST%20Docs/springRestDocs.md)
+- ### Test
+  - [JUnit이란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/testCode.md)
 - ### 추가
   - [mavenCentral과 jcenter](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/mavenCentral.md)
   - [Java 개발의 필수, Lombok](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/lombok.md)
