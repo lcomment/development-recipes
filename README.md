@@ -65,10 +65,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
       - [조인 (Join)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/SQL/join.md)
     - [RDBMS와 NoSQL](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/sqlAndNoSql.md)
 - ### Software Engineering
-    - [테스트 주도 개발방법론 (Test-Driven Development)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/tdd.md)
-    - [객체 지향 개발방법론 (Object-Oriented Design)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/ood.md)
-      - [객체 지향 프로그래밍 (Object-Oriented Programming)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/oop.md)
-      - [SOLID](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/solid.md)
+    - [SOLID](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/solid.md)
     - [팩토리 패턴 (Factory Pattern)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/factoryPattern.md)
     - [MVC 패턴 (MVC Pattern)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/mvc.md)
 - ### Data Structure
@@ -123,7 +120,19 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 
 </br>
 
-## **Ch03. Cloud와 DevOps**
+## **Ch03. Programming**
+
+- ### Test
+  - [테스트와 테스트 코드](https://github.com/lcomment/development-recipes/blob/main/Programming/Test/test.md)
+  - [테스트 코드의 대표적인 패턴 2가지](https://github.com/lcomment/development-recipes/blob/main/Programming/Test/testcodePattern.md)
+  - [테스트 주도 개발방법론 (Test-Driven Development)](https://github.com/lcomment/development-recipes/blob/main/Programming/Test/tdd.md)
+- ### Object-Orientation
+  - [객체 지향 프로그래밍 (Object-Oriented Programming)](https://github.com/lcomment/development-recipes/blob/main/Programming/Object-Orientation/oop.md)
+  - [객체 지향 개발방법론 (Object-Oriented Design)](https://github.com/lcomment/development-recipes/blob/main/Programming/Object-Orientation/ood.md)
+
+</br>
+
+## **Ch04. Cloud와 DevOps**
 
 - ### Git
   - [Github란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/git/github.md)
@@ -137,7 +146,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 
 </br>
 
-## **Ch04. Web**
+## **Ch05. Web**
 
 - [웹의 동작원리](https://github.com/lcomment/development-recipes/blob/main/Web/web.md)
 - [Param, Query, Body의 차이](https://github.com/lcomment/development-recipes/blob/main/Web/requestObject.md)
@@ -152,7 +161,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 
 </br>
 
-## **Ch05. Web - Spring**
+## **Ch06. Web - Spring**
 
 - ### Spring & Spring Boot
   - [스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutSpring.md)
@@ -182,7 +191,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 
 </br>
 
-## **Ch06. Web - Node js**
+## **Ch07. Web - Node js**
 
 - ### Node js
   - [Node란?]()
