@@ -124,7 +124,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 
 - ### Test
   - [테스트와 테스트 코드](https://github.com/lcomment/development-recipes/blob/main/Programming/Test/test.md)
-  - [테스트 코드의 대표적인 패턴 2가지](https://github.com/lcomment/development-recipes/blob/main/Programming/Test/testcodePattern.md)
+  - [Given-When-Then 패턴과 FIRST 전략](https://github.com/lcomment/development-recipes/blob/main/Programming/Test/testcodePattern.md)
   - [테스트 주도 개발방법론 (Test-Driven Development)](https://github.com/lcomment/development-recipes/blob/main/Programming/Test/tdd.md)
 - ### Object-Orientation
   - [객체 지향 프로그래밍 (Object-Oriented Programming)](https://github.com/lcomment/development-recipes/blob/main/Programming/Object-Orientation/oop.md)
