@@ -138,3 +138,6 @@ Stream.of(new Test(1), new Test(2), new Test(3))
 > 필자는 Stream을 정확히 이해하기 전에 Java의 입력?에 대해 스트림을 사용하거나 구글링하여 검색해서 for문을 복잡하게 사용하거나 로직이 복잡해질 때, 해결하고자 하는 사항을 검색해서 사용하기만 했다.
 
 > 이번 정리를 통해서 내부적인 로직을 이해할 수 있었고 코드의 Indent를 줄이며, 가독성 좋은 코드를 작성할 수 있도록 노력할 필요가 있다고 생각한다.
+
+[Stream API 참고 링크](https://ahndding.tistory.com/23)<br>
+[Lazy와 Eager참고 링크](https://bugoverdose.github.io/development/stream-lazy-evaluation/)
