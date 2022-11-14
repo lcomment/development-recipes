@@ -46,7 +46,10 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
     - [프로세스와 스레드](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/process_thread.md)
     - [프로세스 주소 공간과 PCB](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/pas_pcb.md)
     - [프로세스의 문맥 교환 (Context Switching)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/contextSwitching.md)
+    - [CPU 스케줄링](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/cpuScheduling.md)
     - [교착상태 (DeadLock)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/deadlock.md)
+    - [경쟁상태 (Race Condition)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/raceCondition.md)
+    - [세마포어(Semaphore)와 뮤텍스(Mutex)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/semaphore_mutex.md)
 - ### Network
     - [OSI 7 Layer](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/osi.md)
     - [TCP와 UDP](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/tcpNudp.md)
@@ -64,7 +67,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
     - [관계형 데이터베이스 (RDB)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/rdb.md)
       - [RDB에서 꼭 지켜야 하는 7가지 네이밍 규칙](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/rdbNaming.md)
     - [키 (Key)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/key.md)
-    - [인덱스와 사용하면 안되는 경우](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/index.md)
+    - [인덱스와 인덱스를 사용하면 안되는 경우](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/index.md)
     - SQL
       - [조인 (Join)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/SQL/join.md)
     - [RDBMS와 NoSQL](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/sqlAndNoSql.md)
@@ -109,8 +112,10 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
     - [우선순위 큐(PriorityQueue)](https://github.com/lcomment/development-recipes/blob/main/Language/Java/priorityQueue.md)
     - [Comparator와 Comparable](https://github.com/lcomment/development-recipes/blob/main/Language/Java/compare.md)
     - [Iterator와 ListIterator](https://github.com/lcomment/development-recipes/blob/main/Language/Java/iteratorNlistiterator.md)
-  - [Java의 람다식](https://github.com/lcomment/development-recipes/blob/main/Language/Java/lambda.md)
-  - [Java의 스트림](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stream.md)
+  - Java 8
+    - [Java의 Lambda](https://github.com/lcomment/development-recipes/blob/main/Language/Java/lambda.md)
+    - [Java의 Stream](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stream.md)
+      - [왜 Stream Api를 사용해야 하는가?](https://github.com/lcomment/development-recipes/blob/main/Language/Java/aboutStream.md)
 - ### Python
   - 라이브러리
     - [selenium](https://github.com/lcomment/development-recipes/blob/main/Language/Python/selenium.md)
