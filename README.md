@@ -43,6 +43,10 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 ## **Ch01. Computer Science**
 - ### Operating System
     - [운영체제란?](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/operatingSystem.md)
+    - [프로세스와 스레드](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/process_thread.md)
+    - [프로세스 주소 공간과 PCB](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/pas_pcb.md)
+    - [프로세스의 문맥 교환 (Context Switching)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/contextSwitching.md)
+    - [교착상태 (DeadLock)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/deadlock.md)
 - ### Network
     - [OSI 7 Layer](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/osi.md)
     - [TCP와 UDP](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/tcpNudp.md)
