@@ -73,6 +73,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
     - [트랜잭션의 격리 수준 (Transaction Isolation Level)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/transactionIsolationLevel.md)
     - [인덱스와 인덱스를 사용하면 안되는 경우](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/index.md)
     - SQL
+      - [DDL, DML, DCL, TCL](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/SQL/ddl_dml_dcl_tcl.md)
       - [SQL 기본 문법](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/SQL/sqlGrammar.md)
       - [조인 (Join)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/SQL/join.md)
     - [RDBMS와 NoSQL](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/sqlAndNoSql.md)
