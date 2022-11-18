@@ -82,6 +82,11 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
     - [팩토리 패턴 (Factory Pattern)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/factoryPattern.md)
     - [MVC 패턴 (MVC Pattern)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/mvc.md)
 - ### Data Structure
+    - [ArrayList와 LinkedList](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/list.md)
+    - [트리(Tree)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/tree.md)
+      - [이진 트리(Binary Tree)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/binaryTree.md)
+      - [B-Tree, B*Tree, B+Tree](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bTree.md)
+    - [힙 (Heap)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/heap.md)
 - ### Algorithm
     - [그리디 알고리즘 (Greedy)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/greedy.md)
     - [완전탐색 (Brute-Force)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bruteForce.md)
@@ -128,8 +133,6 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 - ### Javascript
   - [ES2015의 등장](https://github.com/lcomment/development-recipes/blob/main/Language/JavaScript/ES2015%2B.md)
   - [async/await](https://github.com/lcomment/development-recipes/blob/main/Language/JavaScript/asyncAwait.md)
-  - 라이브러리
-    - [jQuery](https://github.com/lcomment/development-recipes/blob/main/Language/JavaScript/jQuery.md)
 - ### Typescript
   - [타입스크립트 클린코드 작성법](https://github.com/lcomment/development-recipes/blob/main/Language/Typescript/typescript_cleancode.md)
 
