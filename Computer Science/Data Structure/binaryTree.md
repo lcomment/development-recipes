@@ -28,6 +28,16 @@
 
 <br>
 
+> ### 균형 이진트리 (Balanced Binary Tree)
+
+: 왼쪽과 오른쪽 트리의 높이 차이가 모두 `1`만큼 나는 트리
+
+- AVL Tree
+- Red-Black Tree
+- B-Tree, B\*Tree, B+Tree
+
+<br>
+
 ---
 
 ### Referencs
