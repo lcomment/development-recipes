@@ -128,6 +128,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
     - [Java의 Lambda](https://github.com/lcomment/development-recipes/blob/main/Language/Java/lambda.md)
     - [Java의 Stream](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stream.md)
       - [왜 Stream Api를 사용해야 하는가?](https://github.com/lcomment/development-recipes/blob/main/Language/Java/aboutStream.md)
+  - [Java의 버전별 차이](https://github.com/lcomment/development-recipes/blob/main/Language/Java/javaVersion.md)
 - ### Python
   - 라이브러리
     - [selenium](https://github.com/lcomment/development-recipes/blob/main/Language/Python/selenium.md)
@@ -160,6 +161,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
   - [Cloud와 AWS](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/cloudComputing.md)
   - [AWS RDS](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/rds.md)
   - [AWS Auto Scaling](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/autoScaling.md)
+  - [AWS ECS, ECR](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/ecs_ecr.md)
 - ### Terraform
   - [Terraform이란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/terraform/terraform.md)
 
