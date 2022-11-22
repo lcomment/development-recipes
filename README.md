@@ -154,6 +154,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 
 ## **Ch04. Cloud와 DevOps**
 
+- [CI/CD란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/cicd.md)
 - ### Git
   - [Github란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/git/github.md)
   - [깃 플로우란? (Git-Flow)](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/git/gitflow.md)
@@ -162,6 +163,8 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
   - [AWS RDS](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/rds.md)
   - [AWS Auto Scaling](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/autoScaling.md)
   - [AWS ECS, ECR](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/ecs_ecr.md)
+- ### Docker
+  - [Docker란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/docker/docker.md)
 - ### Terraform
   - [Terraform이란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/terraform/terraform.md)
 
@@ -170,15 +173,16 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 ## **Ch05. Web**
 
 - [웹의 동작원리](https://github.com/lcomment/development-recipes/blob/main/Web/web.md)
+- [CORS란?](https://github.com/lcomment/development-recipes/blob/main/Web/cors.md)
 - [Param, Query, Body의 차이](https://github.com/lcomment/development-recipes/blob/main/Web/requestObject.md)
 - [쿠키(Cookie)와 세션(Session)](https://github.com/lcomment/development-recipes/blob/main/Web/cookieNsession.md)
 - [JWT (Json Web Token)](https://github.com/lcomment/development-recipes/blob/main/Web/jwt.md)
+- [OAuth 2.0](https://github.com/lcomment/development-recipes/blob/main/Web/OAuth2.0.md)
 - [REST API](https://github.com/lcomment/development-recipes/blob/main/Web/restApi.md)
 - [PUT과 PATCH의 차이](https://github.com/lcomment/development-recipes/blob/main/Web/putNpatch.md)
 - [Forward 방식과 Redirect 방식](https://github.com/lcomment/development-recipes/blob/main/Web/redirectNforward.md)
 - [웹 크롤링 (Web Crawling)](https://github.com/lcomment/development-recipes/blob/main/Web/crawling.md)
 - [ORM (Object-Relational Mapping)](https://github.com/lcomment/development-recipes/blob/main/Web/orm.md)
-- [OAuth 2.0](https://github.com/lcomment/development-recipes/blob/main/Web/OAuth2.0.md)
 
 </br>
 
@@ -215,8 +219,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 ## **Ch07. Web - Node js**
 
 - ### Node js
-  - [Node란?]()
-  - [작동원리]()
+  - [Node란?](https://github.com/lcomment/development-recipes/blob/main/Web-Node/Node%20js/nodejs.md)
 - ### Express js
   - [express란](https://github.com/lcomment/development-recipes/blob/main/Web-Node/Express%20js/express.md)
   - middleware
