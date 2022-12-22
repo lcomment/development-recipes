@@ -115,6 +115,9 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 - ### Java
   - [Java의 역사와 특징](https://github.com/lcomment/development-recipes/blob/main/Language/Java/aboutJava.md)
   - [Java의 자료형](https://github.com/lcomment/development-recipes/blob/main/Language/Java/typeOfJava.md)
+  - [Java의 작동 원리](https://github.com/lcomment/development-recipes/blob/main/Language/Java/executionJava.md)
+  - [JVM의 메모리 영역](https://github.com/lcomment/development-recipes/blob/main/Language/Java/jvm.md)
+    - [Garbace Collection (GC)](https://github.com/lcomment/development-recipes/blob/main/Language/Java/gc.md)
   - [Scanner와 BufferedReader](https://github.com/lcomment/development-recipes/blob/main/Language/Java/input.md)
   - [String 클래스](https://github.com/lcomment/development-recipes/blob/main/Language/Java/string.md)
   - [StringBuilder와 StringBuffer](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stringBuilder.md)
