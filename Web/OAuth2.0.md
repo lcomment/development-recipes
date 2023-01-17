@@ -41,7 +41,7 @@
 
 ### ① 권한 부여 승인 코드 방식 (Authorization Code Grant)
 
-<p align=center><img src='../resources/web/oauth1.png' width=512></p>
+<p align=center><img src='../resources/web/oauth1.png' width=800></p>
 
 - 권한 부여 승인을 위해 자체 생성한 `Authorization Code를 전달`하는 방식
 - 많이 쓰이고, 기본이 되는 방식
@@ -53,7 +53,7 @@
 
 ### ② 암묵적 승인 방식 (Implicit Grant)
 
-<p align=center><img src='../resources/web/oauth2.png' width=512></p>
+<p align=center><img src='../resources/web/oauth2.png' width=800></p>
 
 - 자격증명을 안전하게 저장하기 힘든 클라이언트에게 최적화된 방식입니다.
   - ex. JS 등 스크립트 언어를 사용하는 브라우저
@@ -66,7 +66,7 @@
 
 ### ③ 자원 소유자 자격증명 승인 방식 (Resource Owner Password Credentials Grant)
 
-<p align=center><img src='../resources/web/oauth3.png' width=512></p>
+<p align=center><img src='../resources/web/oauth3.png' width=800></p>
 
 - 간단히 username과 password로 Access Token을 받는 방식
 - `자신의 서비스`에서 제공하는 어플리케이션일 경우에만 사용되는 인증 방식
@@ -76,7 +76,7 @@
 
 ### ④ 클라이언트 자격증명 승인 방식 (Client Credentials Grant)
 
-<p align=center><img src='../resources/web/oauth4.png' width=400></p>
+<p align=center><img src='../resources/web/oauth4.png' width=700></p>
 
 - 클라이언트의 자격증명만으로 Access Token을 획득하는 방식
 - OAuth2의 권한 부여 방식 중 가장 간단한 방식
