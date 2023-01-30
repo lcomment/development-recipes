@@ -192,10 +192,11 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 ## **Ch06. Web - Spring**
 
 - ### Spring & Spring Boot
-  - [스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutSpring.md)
-  - [스프링과 스프링부트](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springNboot.md)
-  - [스프링 컨테이너와 핵심원리](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springContainer.md)
-  - [BeanFactory와 BeanDefinition](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutBeanFactory.md)
+  - [스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/aboutSpring.md)
+  - [스프링과 스프링부트](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/springNboot.md)
+  - [스프링 컨테이너와 핵심원리](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/springContainer.md)
+  - [Bean과 Bean 등록 방법](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/bean.md)
+  - [BeanFactory와 BeanDefinition](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/aboutBeanFactory.md)
 - ### Srping MVC
   - [Spring MVC Framework란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/springMvc.md)
   - [@Controller와 @RestController](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/controller.md)
