@@ -205,6 +205,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
   - [Google 간편 로그인 연동하기](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/googleLogin.md)
 - ### MyBatis
   - [MyBatis란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/MyBatis/myBatis.md)
+  - [MyBatis의 Dynamic SQL](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/MyBatis/dynamicSQL.md)
 - ### JPA
   - [JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpa.md)
   - [JPQL (Java Persistence Query Language))](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpql.md)
