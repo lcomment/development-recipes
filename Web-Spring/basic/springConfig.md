@@ -7,7 +7,7 @@
 - `DispatcherServlet`을 이용하여 `servlet-context` 생성
 
 <div align=center>
-    <img src='../../resources/spring/basic/context.png' width=550>
+    <img src='../../resources/spring/basic/context.PNG' width=550>
 </div>
 
 ```xml
