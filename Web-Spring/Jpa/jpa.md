@@ -6,7 +6,7 @@
 
 : Java 진영에서 ORM 기술 표준으로 사용하는 인터페이스
 
-<p align=center><img src='../resources/spring/jpa.png' width=300></p>
+<p align=center><img src='../../resources/spring/jpa.png' width=600></p>
 
 - 자바 애플리케이션과 JDBC 사이에서 동작
 - ORM 프레임워크가 JPA 구현
@@ -32,7 +32,7 @@
   - 애플리케이션과 DB 사이에 `추상화`된 데이터 접근 계층 제공
   - 애플리케이션이 특정 DB 기술에 `독립적`이게 됨
 
-<p align=center><img src='../resources/spring/vendor.png' width=400></p>
+<p align=center><img src='../../resources/spring/vendor.png' width=600></p>
 
 <br>
 
