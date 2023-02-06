@@ -209,9 +209,10 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
   - [MyBatis란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/MyBatis/myBatis.md)
   - [MyBatis의 Dynamic SQL](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/MyBatis/dynamicSQL.md)
 - ### JPA
-  - [JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpa.md)
-  - [JPQL (Java Persistence Query Language))](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpql.md)
-  - [더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/dirtyChecking.md)
+  - [JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/jpa.md)
+  - [JPQL (Java Persistence Query Language)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/jpql.md)
+  - [Entity에 Setter를 지양해야 하는 이유](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/entitySetter.md)
+  - [더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/dirtyChecking.md)
 - ### Spring REST Docs
   - [Spring REST Docs란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20REST%20Docs/springRestDocs.md)
 - ### Test
