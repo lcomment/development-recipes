@@ -14,7 +14,7 @@
 
 <br>
 
-> ### 데이터 조작어 (DML ; Data Definition Language)
+> ### 데이터 조작어 (DML ; Data Manipulation Language)
 
 : DB에 들어있는 데이터를 조회 및 검색하거나 변형을 가하는 종류의 명령어들
 

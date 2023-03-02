@@ -192,10 +192,12 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 ## **Ch06. Web - Spring**
 
 - ### Spring & Spring Boot
-  - [스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutSpring.md)
-  - [스프링과 스프링부트](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springNboot.md)
-  - [스프링 컨테이너와 핵심원리](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springContainer.md)
-  - [BeanFactory와 BeanDefinition](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/aboutBeanFactory.md)
+  - [스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/aboutSpring.md)
+  - [스프링과 스프링부트](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/springNboot.md)
+  - [스프링 컨테이너와 핵심원리](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/springContainer.md)
+  - [web.xml, root-context.xml, servlet-context.xml](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/springConfig.md)
+  - [Bean과 Bean 등록 방법](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/bean.md)
+  - [BeanFactory와 BeanDefinition](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/aboutBeanFactory.md)
 - ### Srping MVC
   - [Spring MVC Framework란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/springMvc.md)
   - [@Controller와 @RestController](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/controller.md)
@@ -203,10 +205,14 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 - ### Spring Security
   - [Spring Security란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springSecurity.md)
   - [Google 간편 로그인 연동하기](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/googleLogin.md)
+- ### MyBatis
+  - [MyBatis란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/MyBatis/myBatis.md)
+  - [MyBatis의 Dynamic SQL](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/MyBatis/dynamicSQL.md)
 - ### JPA
-  - [JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpa.md)
-  - [JPQL (Java Persistence Query Language))](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/jpql.md)
-  - [더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/dirtyChecking.md)
+  - [JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/jpa.md)
+  - [JPQL (Java Persistence Query Language)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/jpql.md)
+  - [Entity에 Setter를 지양해야 하는 이유](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/entitySetter.md)
+  - [더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/dirtyChecking.md)
 - ### Spring REST Docs
   - [Spring REST Docs란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20REST%20Docs/springRestDocs.md)
 - ### Test
