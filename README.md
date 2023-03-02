@@ -222,6 +222,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
   - [Java 개발의 필수, Lombok](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/lombok.md)
   - [Spring Boot의 devtools의 개념과 기능](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/devtools.md)
   - [Swagger로 API 명세하기](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/swagger.md)
+  - [RestTemplate](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/restTemplate.md)
 
 </br>
 
