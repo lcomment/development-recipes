@@ -19,7 +19,7 @@
 ## 동작원리
 
 <p align=center>
-    <img src='../resources/spring/restTemplate.PNG' width=800>
+    <img src='../resources/spring/restTemplate.png' width=800>
 </p>
 
 - 애플리케이션에서 RestTemplate 선언 및 URI와 HTTP 메서듯 BOdy 등 설정
