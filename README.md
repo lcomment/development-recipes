@@ -132,6 +132,15 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
     - [Java의 Stream](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stream.md)
       - [왜 Stream Api를 사용해야 하는가?](https://github.com/lcomment/development-recipes/blob/main/Language/Java/aboutStream.md)
   - [Java의 버전별 차이](https://github.com/lcomment/development-recipes/blob/main/Language/Java/javaVersion.md)
+- ### Kotlin
+  - [Java와 Kotlin의 차이](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/javaVsKotlin.md)
+  - [Kotlin의 Collection](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/collection.md)
+  - [data class](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/dataClass.md)
+  - [kotlin의 싱글톤](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/kotlinSingleton.md)
+  - [Shield Class](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/shieldClass.md)
+  - [구조 분해 할당](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/destructuringAssignment.md)
+  - [확장 함수](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/extensionFunction.md)
+  - [스코프 함수](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/scopeFunction.md)
 - ### Python
   - 라이브러리
     - [selenium](https://github.com/lcomment/development-recipes/blob/main/Language/Python/selenium.md)
