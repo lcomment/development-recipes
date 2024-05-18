@@ -1,19 +1,13 @@
-![7](https://user-images.githubusercontent.com/59721896/179404482-e8218ca7-997a-4969-b632-7f06673a988a.png)
+![](https://user-images.githubusercontent.com/59721896/179404482-e8218ca7-997a-4969-b632-7f06673a988a.png)
 
-<div align=center>
-<h2>개발자를 위한 레시피 📓</h2>
 <br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flcomment%2Fdevelopment-recipes&count_bg=%23CA9ACC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
+<img src="https://img.shields.io/github/license/lcomment/development-recipes"/> <img src="https://img.shields.io/github/last-commit/lcomment/development-recipes"/> <img src="https://img.shields.io/github/contributors/lcomment/development-recipes"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flcomment%2Fdevelopment-recipes&count_bg=%23CA9ACC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> <img src="https://img.shields.io/github/stars/lcomment/development-recipes"/>
 <h1></h1>
+<br>
 
-### **👨‍👦‍👦 Collaborators**
+끊임 없이 성장하길 갈구하는 **_개발 레시피_** 입니다. CS 이론부터 프로그래밍 언어, 프레임워크, 데브옵스 내용까지 담고 있습니다. 필요한 레시피를 편하게 얻어가시고, 원하는 레시피는 `ISSUE`에 등록, 추가하고 싶은 레시피와 잘못된 레시피는 `PR`에 등록해주시면 감사하겠습니다.
 
-| <img src="https://avatars.githubusercontent.com/u/56003992?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/86272688?v=4" width="150"> | <img src="https://avatars.githubusercontent.com/u/86949394?v=4" width=150> |
-| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-|                   [@lcomment](https://github.com/lcomment)                   |                   [@YongsHub](https://github.com/YongsHub)                   |                  [@himJJong](https://github.com/himJJong)                  |
-
-</br>
+<br>
 
 ### **🤝 Contributors**
 
@@ -21,24 +15,9 @@
   <img src="https://contrib.rocks/image?repo=lcomment/development-recipes" />
 </a>
 
-</br>
-
-### **✍️ Commit Convention**
-
-→ [**`tag`**]: [**`content`**]  
-ex) 💡create: 자바스크립트의 async/await 이론 작성
-
-| 태그 |   `💡create`   |  `👆add`  | `🛠revise` |    `🧹delete`     |  `🎀style`  |
-| :--: | :------------: | :-------: | :-------: | :---------------: | :---------: |
-| 의미 | 새로운 글 작성 | 내용 추가 | 내용 수정 | 내용 및 파일 삭제 | 스타일 변경 |
-
 <br>
 
-### ❗️원하는 자료나 잘못된 내용은 `Issue`와 `Pull Request`로 남겨주세요❗️
-
----
-
-</br>  
+<br>  
   
 ## **Ch01. Computer Science**
 - ### Operating System
@@ -200,7 +179,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 
 </br>
 
-## **Ch06. Web - Spring**
+## **Ch06. Spring**
 
 - ### Spring & Spring Boot
   - [스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/aboutSpring.md)
@@ -237,7 +216,7 @@ ex) 💡create: 자바스크립트의 async/await 이론 작성
 
 </br>
 
-## **Ch07. Web - Node js**
+## **Ch07. Node js**
 
 - ### Node js
   - [Node란?](https://github.com/lcomment/development-recipes/blob/main/Web-Node/Node%20js/nodejs.md)
