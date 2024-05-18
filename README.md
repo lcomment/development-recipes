@@ -1,8 +1,9 @@
 ![](https://user-images.githubusercontent.com/59721896/179404482-e8218ca7-997a-4969-b632-7f06673a988a.png)
 
 <br>
-<img src="https://img.shields.io/github/license/lcomment/development-recipes"/> <img src="https://img.shields.io/github/last-commit/lcomment/development-recipes"/> <img src="https://img.shields.io/github/contributors/lcomment/development-recipes"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flcomment%2Fdevelopment-recipes&count_bg=%23CA9ACC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> <img src="https://img.shields.io/github/stars/lcomment/development-recipes"/>
-<h1></h1>
+<div>
+  <img src="https://img.shields.io/github/license/lcomment/development-recipes"/> <img src="https://img.shields.io/github/last-commit/lcomment/development-recipes"/> <img src="https://img.shields.io/github/contributors/lcomment/development-recipes"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flcomment%2Fdevelopment-recipes&count_bg=%23CA9ACC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> <img src="https://img.shields.io/github/stars/lcomment/development-recipes"/>
+</div>
 <br>
 
 끊임 없이 성장하길 갈구하는 **_개발 레시피_** 입니다. CS 이론부터 프로그래밍 언어, 프레임워크, 데브옵스 내용까지 담고 있습니다. 필요한 레시피를 편하게 얻어가시고, 원하는 레시피는 `ISSUE`에 등록, 추가하고 싶은 레시피와 잘못된 레시피는 `PR`에 등록해주시면 감사하겠습니다.
