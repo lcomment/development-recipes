@@ -141,12 +141,15 @@
 - ### Object-Orientation
   - [객체 지향 프로그래밍 (Object-Oriented Programming)](https://github.com/lcomment/development-recipes/blob/main/Programming/Object-Orientation/oop.md)
   - [객체 지향 개발방법론 (Object-Oriented Design)](https://github.com/lcomment/development-recipes/blob/main/Programming/Object-Orientation/ood.md)
+  - [트랜젝션 스크립트 패턴과 도메인 모델 패턴](https://github.com/lcomment/development-recipes/blob/main/Programming/Object-Orientation/transaction_domain.md)
 
 </br>
 
 ## **Ch04. Cloud와 DevOps**
 
 - [CI/CD란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/cicd.md)
+- [Saas, PaaS, IaaS](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/cloudService.md)
+
 - ### Git
   - [Github란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/git/github.md)
   - [깃 플로우란? (Git-Flow)](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/git/gitflow.md)
