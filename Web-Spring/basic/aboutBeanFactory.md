@@ -26,7 +26,7 @@
 ***
 ## **🥜BeanDefinition**
 
-<img src='../resources/spring/BeanDefinition.png' width=600>
+<img src='../../resources/spring/BeanDefinition.png' width=600>
 
 <h3> 스프링 빈 설정 메타 정보
 </h3>
