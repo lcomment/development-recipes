@@ -1,14 +1,23 @@
-![](https://user-images.githubusercontent.com/59721896/179404482-e8218ca7-997a-4969-b632-7f06673a988a.png)
+![](https://github.com/user-attachments/assets/246a7057-b64b-4a9c-9c0e-61b1a5d789f4)
 
-<br>
 <div>
-  <img src="https://img.shields.io/github/license/lcomment/development-recipes"/> <img src="https://img.shields.io/github/last-commit/lcomment/development-recipes"/> <img src="https://img.shields.io/github/contributors/lcomment/development-recipes"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flcomment%2Fdevelopment-recipes&count_bg=%23CA9ACC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> <img src="https://img.shields.io/github/stars/lcomment/development-recipes"/>
+  <img src="https://img.shields.io/badge/Author-lcomment-FFFFFF.svg?style=flat-square">
+  <img src="https://img.shields.io/github/last-commit/lcomment/development-recipes"/> 
+  <img src="https://img.shields.io/github/license/lcomment/development-recipes"/> 
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flcomment%2Fdevelopment-recipes&count_bg=%23CA9ACC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a> 
+  <br>
+  <img src="https://img.shields.io/github/stars/lcomment/development-recipes"/>
+  <img src="https://img.shields.io/github/forks/lcomment/development-recipes">
 </div>
 <br>
 
-성장을 끊임 없이 갈구하는 개발자들을 위해 작성된 **_개발 레시피_** 입니다. CS 이론부터 프로그래밍 언어, 프레임워크, 데브옵스 내용까지 담고 있습니다. 필요한 레시피를 편하게 얻어가시고, 원하는 레시피는 `ISSUE`에 등록, 추가하고 싶은 레시피와 잘못된 레시피는 `PR`에 등록해주시면 감사하겠습니다.
+&nbsp; 끊임없이 성장하고자 하는 개발자들을 위해 마련된 특별한 레시피 입니다. 마치 `요리 레시피`처럼, 컴퓨터 과학(CS) 이론부터 시작해 프로그래밍 언어, 프레임워크, 데브옵스, 시스템 설계에 이르기까지 다양한 개발 관련 레시피를 제공합니다. 각 레시피는 필요할 때 쉽게 찾아 사용할 수 있도록 구성되어 있으며, 여러분의 개발 여정을 풍부하게 만들어줄 것입니다.
 
-<br>
+&nbsp; 여기서 제공하는 레시피는 단순한 지식을 넘어서, 실전에서의 응용과 팁을 포함하고 있어, 여러분이 개발자로서 한층 더 성장할 수 있도록 도와줄 것입니다. 필요한 레시피가 있으시다면 편하게 요청해 주세요. `ISSUE`에 등록해 주시면, 최선을 다해 추가하도록 하겠습니다. 또한, 이미 있는 레시피 중 수정이 필요하거나 개선하고 싶은 부분이 있다면 `ISSUE`와 `Pull Request`을 통해 피드백 해주시면 감사하겠습니다.
+
+&nbsp; 여러분의 개발 여정에 도움이 되기를 바라며, 즐겁게 요리하듯이 코딩을 즐기시기 바랍니다!
 
 ### **🤝 Contributors**
 
@@ -20,215 +29,109 @@
 
 <br>  
   
-## **Ch01. Computer Science**
-- ### Operating System
-    - [운영체제란?](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/operatingSystem.md)
-    - [프로세스와 스레드](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/process_thread.md)
-    - [프로세스 주소 공간과 PCB](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/pas_pcb.md)
-    - [프로세스의 문맥 교환 (Context Switching)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/contextSwitching.md)
-    - [CPU 스케줄링](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/cpuScheduling.md)
-    - [교착상태 (DeadLock)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/deadlock.md)
-    - [경쟁상태 (Race Condition)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/raceCondition.md)
-    - [세마포어(Semaphore)와 뮤텍스(Mutex)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/semaphore_mutex.md)
-- ### Network
-    - [OSI 7 Layer](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/osi.md)
-    - [TCP와 UDP](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/tcpNudp.md)
-    - [3-way Handshacking과 4-way Handshacking](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/3wayN4way.md)
-    - TCP/IP
-      - [흐름제어 (Flow Control)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/flowControl.md)
-      - [혼잡제어 (Congestion Control)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/congestionControl.md)
-    - [Blocking/Non-Blocking과 Synchronous/Asynchronous](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/blockNnonNsyncNasync.md)
-    - [HTTP와 HTTPS](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/httpNhttps.md)
-    - [로드 벨런싱 (Load-Balancing)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/loadBalancing.md)
-    - [포트와 포트포워딩](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/port-forwarding.md)
-    - [프록시 서버](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/proxy.md)
-- ### Database
-    - [데이터베이스 설계](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/dbDesign.md)
-    - [관계형 데이터베이스 (RDB)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/rdb.md)
-    - [RDB에서 꼭 지켜야 하는 7가지 네이밍 규칙](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/rdbNaming.md)
-    - [키 (Key)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/key.md)
-    - [식별 관계와 비식별 관계](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/identifyRelationship.md)
-    - [데이터베이스 정규화 (Normalization)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/normalization.md)
-    - [트랜잭션(Transaction)과 ACID](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/transaction.md)
-    - [트랜잭션의 격리 수준 (Transaction Isolation Level)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/transactionIsolationLevel.md)
-    - [인덱스와 인덱스를 사용하면 안되는 경우](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/index.md)
-    - SQL
-      - [DDL, DML, DCL, TCL](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/SQL/ddl_dml_dcl_tcl.md)
-      - [SQL 기본 문법](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/SQL/sqlGrammar.md)
-      - [조인 (Join)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/SQL/join.md)
-    - [RDBMS와 NoSQL](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/sqlAndNoSql.md)
-- ### Software Engineering
-    - [SOLID](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/solid.md)
-    - [팩토리 패턴 (Factory Pattern)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/factoryPattern.md)
-    - [MVC 패턴 (MVC Pattern)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/SW%20Engineering/mvc.md)
-- ### Data Structure
-    - [ArrayList와 LinkedList](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/list.md)
-    - [해시(Hash)와 해시충돌(Hash Collision)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/hash.md)
-    - [트리(Tree)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/tree.md)
-      - [이진 트리(Binary Tree)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/binaryTree.md)
-      - [B-Tree, B*Tree, B+Tree](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/bTree.md)
-    - [힙 (Heap)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/heap.md)
-- ### Algorithm
-    - [그리디 알고리즘 (Greedy)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/greedy.md)
-    - [완전탐색 (Brute-Force)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bruteForce.md)
-      - [순열 (Permutation)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/permutation.md)
-      - [조합 (Combination)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/combination.md)
-    - 그래프 탐색
-      - [깊이 우선 탐색 (DFS)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dfs.md)
-      - [너비 우선 탐색 (BFS)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bfs.md)
-    - [단일 출발지 최단 경로 구하기 (Single-Source Shortest Path)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/shortestPath.md)
-      - [다익스트라 알고리즘 (Dijkstra)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dijkstra.md)
-      - [벨만-포드 알고리즘 (Bellman-Ford)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bellmanFord.md)
-    - [최장 증가 수열 (LIS)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/lis.md)
-    - [카탈란 수 (Catalan Number)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/catalan.md)
-    - [문자열 탐색](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/substring.md)
-      - [KMP 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kmp.md)
-      - [Rabin-karp 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/rabinKarp.md)
-    - [최소 신장 트리 (MST)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/mst.md)
-      - [크루스칼 알고리즘 (Kruskal)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kruskal.md)
-    - 기하 알고리즘
-      - [CCW 알고리즘 (Counter Clockwise)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/ccw.md)
-</br>
-
-## **Ch02. Language**
-
-- ### Java
-  - [Java의 역사와 특징](https://github.com/lcomment/development-recipes/blob/main/Language/Java/aboutJava.md)
-  - [Java의 자료형](https://github.com/lcomment/development-recipes/blob/main/Language/Java/typeOfJava.md)
-  - [Java의 작동 원리](https://github.com/lcomment/development-recipes/blob/main/Language/Java/executeJava.md)
-  - [JVM의 메모리 영역](https://github.com/lcomment/development-recipes/blob/main/Language/Java/jvm.md)
-    - [Garbace Collection (GC)](https://github.com/lcomment/development-recipes/blob/main/Language/Java/gc.md)
-  - [Scanner와 BufferedReader](https://github.com/lcomment/development-recipes/blob/main/Language/Java/input.md)
-  - [String 클래스](https://github.com/lcomment/development-recipes/blob/main/Language/Java/string.md)
-  - [StringBuilder와 StringBuffer](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stringBuilder.md)
-  - [컬렉션 프레임워크 (Collection Framework)](https://github.com/lcomment/development-recipes/blob/main/Language/Java/collectionFramework.md)
-    - [ArrayList와 LinkedList](https://github.com/lcomment/development-recipes/blob/main/Language/Java/list.md)
-    - [HashSet과 TreeSet](https://github.com/lcomment/development-recipes/blob/main/Language/Java/set.md)
-    - [우선순위 큐(PriorityQueue)](https://github.com/lcomment/development-recipes/blob/main/Language/Java/priorityQueue.md)
-    - [Comparator와 Comparable](https://github.com/lcomment/development-recipes/blob/main/Language/Java/compare.md)
-    - [Iterator와 ListIterator](https://github.com/lcomment/development-recipes/blob/main/Language/Java/iteratorNlistiterator.md)
-  - Java 8
-    - [Java의 Lambda](https://github.com/lcomment/development-recipes/blob/main/Language/Java/lambda.md)
-    - [Java의 Stream](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stream.md)
-      - [왜 Stream Api를 사용해야 하는가?](https://github.com/lcomment/development-recipes/blob/main/Language/Java/aboutStream.md)
-  - [Java의 버전별 차이](https://github.com/lcomment/development-recipes/blob/main/Language/Java/javaVersion.md)
-- ### Kotlin
-  - [Java와 Kotlin의 차이](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/javaVsKotlin.md)
-  - [Kotlin의 Collection](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/collection.md)
-  - [data class](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/dataClass.md)
-  - [kotlin의 싱글톤](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/kotlinSingleton.md)
-  - [Sealed Class](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/sealedClass.md)
-  - [구조 분해 할당](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/destructuringAssignment.md)
-  - [확장 함수](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/extensionFunction.md)
-  - [스코프 함수](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/scopeFunction.md)
-- ### Python
-  - 라이브러리
-    - [selenium](https://github.com/lcomment/development-recipes/blob/main/Language/Python/selenium.md)
-- ### Javascript
-  - [ES2015의 등장](https://github.com/lcomment/development-recipes/blob/main/Language/JavaScript/ES2015%2B.md)
-  - [async/await](https://github.com/lcomment/development-recipes/blob/main/Language/JavaScript/asyncAwait.md)
-- ### Typescript
-  - [타입스크립트 클린코드 작성법](https://github.com/lcomment/development-recipes/blob/main/Language/Typescript/typescript_cleancode.md)
+## **[📖 Computer Science Recipe](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/computerScience.md)**
+- Operating System
+- Network
+- Database
+- Data Structure
+- Algorithm
+- Software Engineering
 
 </br>
 
-## **Ch03. Programming**
+## **[📖 Programming Language Recipe](https://github.com/lcomment/development-recipes/blob/main/Programming/programmingLanguage.md)**
 
-- ### Test
-  - [테스트와 테스트 코드](https://github.com/lcomment/development-recipes/blob/main/Programming/Test/test.md)
-  - [Given-When-Then 패턴과 FIRST 전략](https://github.com/lcomment/development-recipes/blob/main/Programming/Test/testcodePattern.md)
-  - [테스트 주도 개발방법론 (Test-Driven Development)](https://github.com/lcomment/development-recipes/blob/main/Programming/Test/tdd.md)
-- ### Object-Orientation
-  - [객체 지향 프로그래밍 (Object-Oriented Programming)](https://github.com/lcomment/development-recipes/blob/main/Programming/Object-Orientation/oop.md)
-  - [객체 지향 개발방법론 (Object-Oriented Design)](https://github.com/lcomment/development-recipes/blob/main/Programming/Object-Orientation/ood.md)
-  - [트랜젝션 스크립트 패턴과 도메인 모델 패턴](https://github.com/lcomment/development-recipes/blob/main/Programming/Object-Orientation/transaction_domain.md)
+- Java
+- Kotlin
+- Python
+- Javascript
+- Typescript
 
 </br>
 
-## **Ch04. Cloud와 DevOps**
+## **[📖 DevOps and Cloud Recipe](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/devopsCloud.md)**
 
-- [CI/CD란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/cicd.md)
-- [Saas, PaaS, IaaS](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/cloudService.md)
-
-- ### Git
-  - [Github란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/git/github.md)
-  - [깃 플로우란? (Git-Flow)](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/git/gitflow.md)
-- ### AWS
-  - [Cloud와 AWS](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/cloudComputing.md)
-  - [AWS RDS](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/rds.md)
-  - [AWS Auto Scaling](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/autoScaling.md)
-  - [AWS ECS, ECR](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/ecs_ecr.md)
-- ### Docker
-  - [가상화와 하이퍼바이저](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/docker/hypervisor.md)
-  - [도커란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/docker/docker.md)
-  - [도커 이미지와 레이어, 컨테이너](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/docker/dockerExecution.md)
-- ### Terraform
-  - [Terraform이란?](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/terraform/terraform.md)
+- Git
+- AWS
+- Docker
+- CI/CD
+- Terraform
 
 </br>
 
-## **Ch05. Web**
+## **[📖 Web Basic Recipe](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/devopsCloud.md)**
 
-- [웹의 동작원리](https://github.com/lcomment/development-recipes/blob/main/Web/web.md)
-- [CORS란?](https://github.com/lcomment/development-recipes/blob/main/Web/cors.md)
-- [Param, Query, Body의 차이](https://github.com/lcomment/development-recipes/blob/main/Web/requestObject.md)
-- [쿠키(Cookie)와 세션(Session)](https://github.com/lcomment/development-recipes/blob/main/Web/cookieNsession.md)
-- [JWT (Json Web Token)](https://github.com/lcomment/development-recipes/blob/main/Web/jwt.md)
-- [OAuth 2.0](https://github.com/lcomment/development-recipes/blob/main/Web/OAuth2.0.md)
-- [REST API](https://github.com/lcomment/development-recipes/blob/main/Web/restApi.md)
-- [PUT과 PATCH의 차이](https://github.com/lcomment/development-recipes/blob/main/Web/putNpatch.md)
-- [Forward 방식과 Redirect 방식](https://github.com/lcomment/development-recipes/blob/main/Web/redirectNforward.md)
-- [웹 크롤링 (Web Crawling)](https://github.com/lcomment/development-recipes/blob/main/Web/crawling.md)
-- [ORM (Object-Relational Mapping)](https://github.com/lcomment/development-recipes/blob/main/Web/orm.md)
+- 웹의 동작원리
+- CORS란?
+- Param, Query, Body의 차이
+- 쿠키(Cookie)와 세션(Session)
+- JWT (Json Web Token)
+- OAuth 2.0
+- REST API
+- PUT과 PATCH의 차이
+- Forward 방식과 Redirect 방식
+- 웹 크롤링 (Web Crawling)
+- ORM (Object-Relational Mapping)
 
-</br>
+## **[📖 Spring Framework Recipe](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/spring.md)**
 
-## **Ch06. Spring**
-
-- ### Spring & Spring Boot
-  - [스프링 프레임워크란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/aboutSpring.md)
-  - [스프링과 스프링부트](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/springNboot.md)
-  - [스프링 컨테이너와 핵심원리](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/springContainer.md)
-  - [web.xml, root-context.xml, servlet-context.xml](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/springConfig.md)
-  - [Bean과 Bean 등록 방법](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/bean.md)
-  - [BeanFactory와 BeanDefinition](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/aboutBeanFactory.md)
-- ### Srping MVC
-  - [Spring MVC Framework란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/springMvc.md)
-  - [@Controller와 @RestController](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/controller.md)
-  - [DTO와 DAO, VO](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/dao_dto_vo.md)
-- ### Spring Security
-  - [Spring Security란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springSecurity.md)
-  - [Google 간편 로그인 연동하기](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/googleLogin.md)
-- ### MyBatis
-  - [MyBatis란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/MyBatis/myBatis.md)
-  - [MyBatis의 Dynamic SQL](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/MyBatis/dynamicSQL.md)
-- ### JPA
-  - [JPA란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/jpa.md)
-  - [JPQL (Java Persistence Query Language)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/jpql.md)
-  - [Entity에 Setter를 지양해야 하는 이유](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/entitySetter.md)
-  - [더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/dirtyChecking.md)
-- ### Spring REST Docs
-  - [Spring REST Docs란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20REST%20Docs/springRestDocs.md)
-- ### Test
-  - [JUnit이란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/testCode.md)
-- ### 추가
-  - [mavenCentral과 jcenter](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/mavenCentral.md)
-  - [Java 개발의 필수, Lombok](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/lombok.md)
-  - [Spring Boot의 devtools의 개념과 기능](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/devtools.md)
-  - [Swagger로 API 명세하기](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/swagger.md)
-  - [RestTemplate](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/restTemplate.md)
+- Spring & Spring Boot
+- Srping MVC
+- MyBatis
+- JPA
+- Spring REST Docs
+- Test (JUnit, mockito, kotest)
+- Java 개발의 필수, Lombok
+- Swagger로 API 명세하기
 
 </br>
 
-## **Ch07. Node js**
+## **[📖 Node js Recipe](https://github.com/lcomment/development-recipes/blob/main/Web-Node/node.md)**
 
-- ### Node js
-  - [Node란?](https://github.com/lcomment/development-recipes/blob/main/Web-Node/Node%20js/nodejs.md)
-- ### Express js
-  - [express란](https://github.com/lcomment/development-recipes/blob/main/Web-Node/Express%20js/express.md)
-  - middleware
-    - [body-parser](https://github.com/lcomment/development-recipes/blob/main/Web-Node/Express%20js/middleware/body-parser.md)
-- ### Nest js
-  - Overview
-    - [MiddleWare](https://github.com/lcomment/development-recipes/blob/main/Web-Node/Nest%20js/Overview/middleware.md)
-    - [Exception Filters](https://github.com/lcomment/development-recipes/blob/main/Web-Node/Nest%20js/Overview/exceptionfilters.md)
+- Node js
+- Express js
+- Nest js
+
+<br>
+
+## **[📖 Programming Recipe](https://github.com/lcomment/development-recipes/blob/main/Programming/programming.md)**
+
+- 객체 지향 프로그래밍
+- 테스트 코드 작성
+
+<br>
+
+## **[📖 System Design Recipe](https://github.com/lcomment/development-recipes/blob/main/System%20Design/systemDesign.md)**
+
+- 시스템 설계 인터뷰 Tip
+- 시스템 컴포넌트
+- 개략적 규모 추정
+- 기출 문제
+
+<br>
+
+## License
+
+```
+MIT License
+
+Copyright (c) 2022 Hyunseok Ko
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
