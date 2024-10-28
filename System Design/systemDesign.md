@@ -8,8 +8,8 @@
 
 ## Ch02. 시스템 컴포넌트
 
-- 서버와 로드벨런서
-- RDB와 NoSql
+- [서버와 로드밸런서](https://github.com/lcomment/development-recipes/blob/main/System%20Design/server.md)
+- [RDB와 NoSql](https://github.com/lcomment/development-recipes/blob/main/System%20Design/rdb_nosql.md)
 - 캐시와 CDN
 - 데이터 센터
 - 메시지 큐
@@ -20,3 +20,8 @@
 - [개략적 규모 추정]()
 
 ## Ch03. 기출 문제
+
+- [Rate Limiter 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/rateLimiter.md)
+- [Consistent Hash 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/consistentHash.md)
+- [Key-Value 저장소 설계]()
+- [분산 시스템을 위한 유일 ID 생성기 설계]()
