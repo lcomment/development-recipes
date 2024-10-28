@@ -39,7 +39,7 @@
 
 </br>
 
-## **[📖 Programming Language Recipe](https://github.com/lcomment/development-recipes/blob/main/Programming/programmingLanguage.md)**
+## **[📖 Programming Language Recipe](https://github.com/lcomment/development-recipes/blob/main/Language/programmingLanguage.md)**
 
 - Java
 - Kotlin
