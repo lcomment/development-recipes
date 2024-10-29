@@ -12,7 +12,7 @@
 - [RDB와 NoSql](https://github.com/lcomment/development-recipes/blob/main/System%20Design/rdb_nosql.md)
 - [캐시와 CDN](https://github.com/lcomment/development-recipes/blob/main/System%20Design/캐시와_CDN.md)
 - 데이터 센터
-- 메시지 큐
+- [메시지 큐](https://github.com/lcomment/development-recipes/blob/main/System%20Design/메시지_큐.md)
 - 로그, 매트릭, 자동화
 
 ## Ch03. 개략적 규모 추정
@@ -29,9 +29,9 @@
 - [분산 시스템을 위한 유일 ID 생성기 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/분산_시스템을_위한_유일_ID_생성기.md)
 - [URL 단축기 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/URL_단축기.md)
 - [웹 크롤러 설계]()
-- [알림 시스템 설계]()
+- [알림 시스템 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/알림_시스템.md)
 - [뉴스 피드 시스템 설계]()
-- [채팅 시스템 설계]()
+- [채팅 시스템 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/채팅_시스템.md)
 - [검색어 자동완성 시스템 설계]()
 - [유튜브 설계]()
 - [구글 드라이브 설계]()
