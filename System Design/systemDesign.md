@@ -17,7 +17,9 @@
 
 ## Ch03. 개략적 규모 추정
 
-- [개략적 규모 추정]()
+- [개략적 규모 추정](https://github.com/lcomment/development-recipes/blob/main/System%20Design/개략적_규모_추정.md)
+- [예제) SNS 시스템 규모 추정](https://github.com/lcomment/development-recipes/blob/main/System%20Design/SNS_시스템_규모_추정.md)
+- [예제) 홈페이지 시스템 규모 추정](https://github.com/lcomment/development-recipes/blob/main/System%20Design/홈페이지_시스템_규모_추정.md)
 
 ## Ch03. 기출 문제
 
