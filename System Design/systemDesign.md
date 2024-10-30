@@ -11,7 +11,7 @@
 - [서버와 로드밸런서](https://github.com/lcomment/development-recipes/blob/main/System%20Design/server.md)
 - [RDB와 NoSql](https://github.com/lcomment/development-recipes/blob/main/System%20Design/rdb_nosql.md)
 - [캐시와 CDN](https://github.com/lcomment/development-recipes/blob/main/System%20Design/캐시와_CDN.md)
-- 데이터 센터
+- [데이터 센터](https://github.com/lcomment/development-recipes/blob/main/System%20Design/데이터_센터.md)
 - [메시지 큐](https://github.com/lcomment/development-recipes/blob/main/System%20Design/메시지_큐.md)
 - 로그, 매트릭, 자동화
 
@@ -33,6 +33,7 @@
 - [뉴스 피드 시스템 설계]()
 - [채팅 시스템 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/채팅_시스템.md)
 - [검색어 자동완성 시스템 설계]()
-- [유튜브 설계]()
+- [유튜브 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/유튜브_시스템.md)
 - [구글 드라이브 설계]()
 - [실시간 투표 시스템 설계]()
+- [실시간 Live 방송 시스템 설계]()
