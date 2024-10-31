@@ -13,6 +13,7 @@
 - [AWS RDS](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/rds.md)
 - [AWS Auto Scaling](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/autoScaling.md)
 - [AWS ECS, ECR](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/ecs_ecr.md)
+- [VPC Peering](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/aws/vpc_peering.md)
 
 ## Docker
 

@@ -32,7 +32,7 @@
 - [알림 시스템 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/알림_시스템.md)
 - 뉴스 피드 시스템 설계
 - [채팅 시스템 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/채팅_시스템.md)
-- 검색어 자동완성 시스템 설계
+- [검색어 자동완성 시스템 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/검색어_자동완성_시스템.md)
 - [유튜브 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/유튜브_시스템.md)
 - 구글 드라이브 설계
 - 실시간 투표 시스템 설계
