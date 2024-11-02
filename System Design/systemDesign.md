@@ -24,13 +24,13 @@
 ## Ch03. 기출 문제
 
 - [Rate Limiter 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/처리율_제한_장치.md)
-- Consistent Hash 설계
+- Consistent Hash 설계(https://github.com/lcomment/development-recipes/blob/main/System%20Design/안정_해시.md)
 - Key-Value 저장소 설계
 - [분산 시스템을 위한 유일 ID 생성기 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/분산_시스템을_위한_유일_ID_생성기.md)
 - [URL 단축기 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/URL_단축기.md)
 - 웹 크롤러 설계
 - [알림 시스템 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/알림_시스템.md)
-- 뉴스 피드 시스템 설계
+- [뉴스 피드 시스템 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/뉴스_피드_시스템.md)
 - [채팅 시스템 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/채팅_시스템.md)
 - [검색어 자동완성 시스템 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/검색어_자동완성_시스템.md)
 - [유튜브 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/유튜브_시스템.md)
