@@ -36,7 +36,7 @@
 - [식별 관계와 비식별 관계](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/identifyRelationship.md)
 - [데이터베이스 정규화 (Normalization)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/normalization.md)
 - [트랜잭션(Transaction)과 ACID](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/transaction.md)
-- [트랜잭션의 격리 수준 (Transaction Isolation Level)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/transactionIsolationLevel.md)
+- [트랜잭션의 격리 수준 (Transaction Isolation Level)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/트랜잭션_격리수준.md)
 - [인덱스와 인덱스를 사용하면 안되는 경우](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/index.md)
 - SQL
   - [DDL, DML, DCL, TCL](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Database/SQL/ddl_dml_dcl_tcl.md)
