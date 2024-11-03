@@ -24,7 +24,7 @@
 ## Ch03. 기출 문제
 
 - [Rate Limiter 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/처리율_제한_장치.md)
-- Consistent Hash 설계(https://github.com/lcomment/development-recipes/blob/main/System%20Design/안정_해시.md)
+- [Consistent Hash 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/안정_해시.md)
 - Key-Value 저장소 설계
 - [분산 시스템을 위한 유일 ID 생성기 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/분산_시스템을_위한_유일_ID_생성기.md)
 - [URL 단축기 설계](https://github.com/lcomment/development-recipes/blob/main/System%20Design/URL_단축기.md)
