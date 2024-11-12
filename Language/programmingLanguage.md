@@ -6,9 +6,11 @@
 
 - [Java의 역사와 특징](https://github.com/lcomment/development-recipes/blob/main/Language/Java/aboutJava.md)
 - [Java의 자료형](https://github.com/lcomment/development-recipes/blob/main/Language/Java/typeOfJava.md)
-- [Java의 작동 원리](https://github.com/lcomment/development-recipes/blob/main/Language/Java/executeJava.md)
-- [JVM의 메모리 영역](https://github.com/lcomment/development-recipes/blob/main/Language/Java/jvm.md)
-  - [Garbace Collection (GC)](https://github.com/lcomment/development-recipes/blob/main/Language/Java/gc.md)
+- [Java의 작동 원리](https://github.com/lcomment/development-recipes/blob/main/Language/Java/Java_실행_과정.md)
+- [JVM의 클래스 로더](https://github.com/lcomment/development-recipes/blob/main/Language/Java/jvm_클래스로더.md)
+- [JVM의 메모리 영역](https://github.com/lcomment/development-recipes/blob/main/Language/Java/jvm_메모리_영역.md)
+- [Garbace Collection (GC)](https://github.com/lcomment/development-recipes/blob/main/Language/Java/gc.md)
+- [Java의 버전별 차이](https://github.com/lcomment/development-recipes/blob/main/Language/Java/javaVersion.md)
 - [Scanner와 BufferedReader](https://github.com/lcomment/development-recipes/blob/main/Language/Java/input.md)
 - [String 클래스](https://github.com/lcomment/development-recipes/blob/main/Language/Java/string.md)
 - [StringBuilder와 StringBuffer](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stringBuilder.md)
@@ -18,13 +20,12 @@
   - [우선순위 큐(PriorityQueue)](https://github.com/lcomment/development-recipes/blob/main/Language/Java/priorityQueue.md)
   - [Comparator와 Comparable](https://github.com/lcomment/development-recipes/blob/main/Language/Java/compare.md)
   - [Iterator와 ListIterator](https://github.com/lcomment/development-recipes/blob/main/Language/Java/iteratorNlistiterator.md)
-- Java 8
-  - [Java의 Lambda](https://github.com/lcomment/development-recipes/blob/main/Language/Java/lambda.md)
-  - [Java의 Stream](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stream.md)
-    - [왜 Stream Api를 사용해야 하는가?](https://github.com/lcomment/development-recipes/blob/main/Language/Java/aboutStream.md)
+- [Java의 Lambda](https://github.com/lcomment/development-recipes/blob/main/Language/Java/lambda.md)
+- [Java의 Stream](https://github.com/lcomment/development-recipes/blob/main/Language/Java/stream.md)
+  - [왜 Stream Api를 사용해야 하는가?](https://github.com/lcomment/development-recipes/blob/main/Language/Java/aboutStream.md)
 - [Future 인터페이스](https://github.com/lcomment/development-recipes/blob/main/Language/Java/future.md)
 - [CompletableFuture 클래스](https://github.com/lcomment/development-recipes/blob/main/Language/Java/completableFuture.md)
-- [Java의 버전별 차이](https://github.com/lcomment/development-recipes/blob/main/Language/Java/javaVersion.md)
+
 
 ## Kotlin
 

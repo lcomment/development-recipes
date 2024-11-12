@@ -1,4 +1,4 @@
-## JVM의 메모리 영역
+# JVM의 메모리 영역
 
 <div align=center>
     <img src='../../resources/java/jvm.png'>
@@ -7,6 +7,7 @@
 > ### Heap
 
 - 객체의 인스턴스나 동적으로 할당된 데이터. 즉 `Reference Type이 저장`
+- 모든 스레드가 공유하는 공간
 - `GC`가 일어남
 - Young Generation: 새로 생성된 인스턴스 저장
   - EDEN: 생성된 인스턴스 저장
@@ -18,13 +19,15 @@
 
 > ### Thread Stack
 
-- `Thread 하나`마다 배정되는 메모리 영역
+- `Stack 영역`
+- 각 `Thread`마다 배정되는 메모리 영역
 - 메서드, 메서드 반환값, 지역변수 저장
 
 <br>
 
 > ### MetaSpace
 
+- `메서드 영역`
 - 애플리케이션의 class, 메서드 정보, static 멤버 변수 저장
 
 <br>
