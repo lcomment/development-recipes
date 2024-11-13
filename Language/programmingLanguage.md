@@ -30,6 +30,7 @@
   - [Executor와 ExecutorService](https://github.com/lcomment/development-recipes/blob/main/Language/Java/Executor와_ExecutorService.md)
   - [volatile과 synchronized를 활용한 동기화](https://github.com/lcomment/development-recipes/blob/main/Language/Java/volatile과_synchronized.md)
   - [ThreadLocal과 Atomic](https://github.com/lcomment/development-recipes/blob/main/Language/Java/ThreadLocal과_Atomic.md)
+  - [멀티스레드 환경에서 싱글톤으로 객체 생성하기](https://github.com/lcomment/development-recipes/blob/main/Language/Java/멀티스레드_환경에서_싱글톤으로_객체_생성하기.md)
 
 ## Kotlin
 
