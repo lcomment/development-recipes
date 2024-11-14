@@ -10,6 +10,7 @@
 - [JVM의 클래스 로더](https://github.com/lcomment/development-recipes/blob/main/Language/Java/jvm_클래스로더.md)
 - [JVM의 메모리 영역](https://github.com/lcomment/development-recipes/blob/main/Language/Java/jvm_메모리_영역.md)
 - [Garbace Collection (GC)](https://github.com/lcomment/development-recipes/blob/main/Language/Java/gc.md)
+- [GC 튜닝하기](https://github.com/lcomment/development-recipes/blob/main/Language/Java/gc_튜닝하기.md)
 - [Java의 버전별 차이](https://github.com/lcomment/development-recipes/blob/main/Language/Java/javaVersion.md)
 - [Scanner와 BufferedReader](https://github.com/lcomment/development-recipes/blob/main/Language/Java/input.md)
 - [String 클래스](https://github.com/lcomment/development-recipes/blob/main/Language/Java/string.md)
