@@ -40,7 +40,9 @@
 
 ## Test
 
-- [JUnit이란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/testCode.md)
+- [JUnit이란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/test/JUnit.md)
+- [JUnit5의 Extension](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/test/JUnit5_Extension.md)
+- [SpringExtension](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/test/SpringExtension.md)
 
 ## 기타
 
@@ -49,3 +51,4 @@
 - [Spring Boot의 devtools의 개념과 기능](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/devtools.md)
 - [Swagger로 API 명세하기](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/swagger.md)
 - [RestTemplate](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/restTemplate.md)
+- [@Async 어노테이션을 활용한 비동기 처리](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Async_어노테이션을_활용한_비동기.md)
