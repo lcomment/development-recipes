@@ -44,9 +44,9 @@
 - [확장 함수](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/extensionFunction.md)
 - [스코프 함수](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/scopeFunction.md)
 - Effective Kotlin
-  - [1장: 좋은 코드](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/이펙티브_코틀린1.md)
-  - [2장: 코드 설계](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/이펙티브_코틀린2.md)
-  - [3장: 효율성](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/이펙티브_코틀린3.md)
+  - [1장: 좋은 코드](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/이펙티브_코틀린_1.md)
+  - [2장: 코드 설계](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/이펙티브_코틀린_2.md)
+  - [3장: 효율성](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/이펙티브_코틀린_3.md)
 
 ## Python
 
