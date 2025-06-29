@@ -34,6 +34,10 @@
 - [Entity에 Setter를 지양해야 하는 이유](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/entitySetter.md)
 - [더티 체킹 (Dirty Checking)](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Jpa/dirtyChecking.md)
 
+## Redis
+
+- [Redisson의 RLock](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/redis/Redisson의_RLock.md)
+
 ## Spring REST Docs
 
 - [Spring REST Docs란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20REST%20Docs/springRestDocs.md)
