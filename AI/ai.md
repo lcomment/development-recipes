@@ -20,10 +20,11 @@
 
 ## Ch03. AI 에이전트
 
-- AI 에이전트란?
+- [AI 에이전트란?](https://github.com/lcomment/development-recipes/blob/main/AI/Agent/ai_에이전트.md)
 - 에이전트 루프와 도구 설계
 - MCP (Model Context Protocol)
 - 멀티 에이전트와 작업 분배
+- [어떤 에이전트를 사용할까?](https://github.com/lcomment/development-recipes/blob/main/AI/Agent/어떤_에이전트를_사용할까.md)
 
 ## Ch04. AI 엔지니어링 패러다임
 
