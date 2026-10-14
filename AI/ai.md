@@ -8,7 +8,7 @@
 - [토큰과 컨텍스트 윈도우](https://github.com/lcomment/development-recipes/blob/main/AI/LLM/토큰과_컨텍스트_윈도우.md)
 - Function Calling과 도구 사용
 - 구조화된 출력 (Structured Outputs)
-- 프롬프트 캐싱
+- [프롬프트 캐싱](https://github.com/lcomment/development-recipes/blob/main/AI/LLM/프롬프트_캐싱.md)
 
 ## Ch02. RAG (Retrieval-Augmented Generation)
 
@@ -28,7 +28,7 @@
 ## Ch04. AI 엔지니어링 패러다임
 
 - [프롬프트 엔지니어링 (Prompt Engineering)](https://github.com/lcomment/development-recipes/blob/main/AI/Paradigm/프롬프트_엔지니어링.md)
-- 컨텍스트 엔지니어링 (Context Engineering)
+- [컨텍스트 엔지니어링 (Context Engineering)](https://github.com/lcomment/development-recipes/blob/main/AI/Paradigm/컨텍스트_엔지니어링.md)
 - 에이전틱 엔지니어링 (Agentic Engineering)
 - 하네스 엔지니어링 (Harness Engineering)
 - 리버스 엔지니어링 (Reverse Engineering)
