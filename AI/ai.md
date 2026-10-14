@@ -33,6 +33,7 @@
 - MCP 서버 만들기
 - 인증과 권한 (OAuth)
 - MCP 보안 위협과 방어
+- [MySQL MCP](https://github.com/lcomment/development-recipes/blob/main/AI/MCP/mysql_mcp.md)
 
 ## Ch05. AI 엔지니어링 패러다임
 
