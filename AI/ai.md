@@ -55,7 +55,7 @@
 
 - [Claude Code란?](https://github.com/lcomment/development-recipes/blob/main/AI/Claude%20Code/claude_code.md)
 - [CLAUDE.md로 프로젝트 컨텍스트 주기](https://github.com/lcomment/development-recipes/blob/main/AI/Claude%20Code/claude_md.md)
-- 권한과 설정 (settings.json)
+- [권한과 설정 (settings.json)](https://github.com/lcomment/development-recipes/blob/main/AI/Claude%20Code/권한과_설정.md)
 - 커스텀 슬래시 커맨드
 - 스킬 (Agent Skills)
 - 서브에이전트 활용
