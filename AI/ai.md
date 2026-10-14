@@ -22,11 +22,19 @@
 
 - [AI 에이전트란?](https://github.com/lcomment/development-recipes/blob/main/AI/Agent/ai_에이전트.md)
 - 에이전트 루프와 도구 설계
-- MCP (Model Context Protocol)
 - 멀티 에이전트와 작업 분배
 - [어떤 에이전트를 사용할까?](https://github.com/lcomment/development-recipes/blob/main/AI/Agent/어떤_에이전트를_사용할까.md)
 
-## Ch04. AI 엔지니어링 패러다임
+## Ch04. MCP (Model Context Protocol)
+
+- [MCP란?](https://github.com/lcomment/development-recipes/blob/main/AI/MCP/mcp.md)
+- 서버 primitives (Tools, Resources, Prompts)
+- 전송 방식 (stdio, Streamable HTTP)
+- MCP 서버 만들기
+- 인증과 권한 (OAuth)
+- MCP 보안 위협과 방어
+
+## Ch05. AI 엔지니어링 패러다임
 
 - [프롬프트 엔지니어링 (Prompt Engineering)](https://github.com/lcomment/development-recipes/blob/main/AI/Paradigm/프롬프트_엔지니어링.md)
 - [컨텍스트 엔지니어링 (Context Engineering)](https://github.com/lcomment/development-recipes/blob/main/AI/Paradigm/컨텍스트_엔지니어링.md)
@@ -34,7 +42,7 @@
 - 하네스 엔지니어링 (Harness Engineering)
 - 리버스 엔지니어링 (Reverse Engineering)
 
-## Ch05. 실전 운영
+## Ch06. 실전 운영
 
 - 평가(Eval) 설계와 LLM-as-judge
 - 토큰 이코노미 (비용과 레이턴시 최적화)
@@ -42,7 +50,7 @@
 - 가드레일과 프롬프트 인젝션 방어
 - 모델 마이그레이션
 
-## Ch06. Claude Code
+## Ch07. Claude Code
 
 - Claude Code란?
 - CLAUDE.md로 프로젝트 컨텍스트 주기
