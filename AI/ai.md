@@ -5,7 +5,7 @@
 ## Ch01. LLM 기초
 
 - [LLM이란?](https://github.com/lcomment/development-recipes/blob/main/AI/LLM/llm_기초.md)
-- 토큰과 컨텍스트 윈도우
+- [토큰과 컨텍스트 윈도우](https://github.com/lcomment/development-recipes/blob/main/AI/LLM/토큰과_컨텍스트_윈도우.md)
 - Function Calling과 도구 사용
 - 구조화된 출력 (Structured Outputs)
 - 프롬프트 캐싱
