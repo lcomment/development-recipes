@@ -110,6 +110,17 @@
 
 <br>
 
+## **[📖 AI Recipe](https://github.com/lcomment/development-recipes/blob/main/AI/ai.md)**
+
+- LLM 기초
+- RAG
+- AI 에이전트
+- AI 엔지니어링 패러다임
+- 실전 운영
+- Claude Code
+
+<br>
+
 ## License
 
 ```
