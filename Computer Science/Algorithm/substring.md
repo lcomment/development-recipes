@@ -21,4 +21,4 @@ public class SearchSubstring {
 ## **문자열 탐색 알고리즘**
 
 - ### [KMP 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kmp.md)
-- ### [Rabin-karp 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/rabinKarp.md)
+- ### Rabin-karp 알고리즘

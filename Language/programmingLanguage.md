@@ -36,12 +36,12 @@
 ## Kotlin
 
 - [Java와 Kotlin의 차이](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/javaVsKotlin.md)
-- [Kotlin의 Collection](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/collection.md)
+- Kotlin의 Collection
 - [data class](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/dataClass.md)
 - [kotlin의 싱글톤](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/kotlinSingleton.md)
-- [Sealed Class](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/sealedClass.md)
-- [구조 분해 할당](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/destructuringAssignment.md)
-- [확장 함수](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/extensionFunction.md)
+- Sealed Class
+- 구조 분해 할당
+- 확장 함수
 - [스코프 함수](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/scopeFunction.md)
 - Effective Kotlin
   - [1장: 좋은 코드](https://github.com/lcomment/development-recipes/blob/main/Language/Kotlin/이펙티브_코틀린_1.md)

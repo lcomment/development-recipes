@@ -14,12 +14,12 @@
 ## Srping MVC
 
 - [Spring MVC Framework란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/springMvc.md)
-- [@Controller와 @RestController](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/controller.md)
+- [@Controller와 @RestController](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/controller.md)
 - [DTO와 DAO, VO](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/dao_dto_vo.md)
 
 ## Spring Security
 
-- [Spring Security란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/springSecurity.md)
+- Spring Security란?
 - [Google 간편 로그인 연동하기](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/googleLogin.md)
 
 ## MyBatis

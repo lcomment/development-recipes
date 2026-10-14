@@ -57,12 +57,12 @@
 
 > ### iv) 순열과 조합 (Permutation and Combination)
 
-- [순열 (Permutation)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/permutaion.md)
+- [순열 (Permutation)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/permutation.md)
 - [조합 (Combination)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/combination.md)
 
 <br>
 
 > ### v) DFS / BFS
 
-- [깊이 우선 탐색 (DFS)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dfs.md)
-- [너비 우선 탐색 (BFS)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bfs.md)
+- 깊이 우선 탐색 (DFS)
+- 너비 우선 탐색 (BFS)

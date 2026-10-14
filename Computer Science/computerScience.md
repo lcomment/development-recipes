@@ -8,7 +8,7 @@
 - [프로세스와 스레드](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/process_thread.md)
 - [프로세스 주소 공간과 PCB](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/pas_pcb.md)
 - [프로세스의 문맥 교환 (Context Switching)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/contextSwitching.md)
-- [CPU 스케줄링](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/cpuScheduling.md)
+- CPU 스케줄링
 - [교착상태 (DeadLock)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/deadlock.md)
 - [경쟁상태 (Race Condition)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/raceCondition.md)
 - [세마포어(Semaphore)와 뮤텍스(Mutex)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Operating%20System/semaphore_mutex.md)
@@ -19,8 +19,8 @@
 - [TCP와 UDP](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/tcpNudp.md)
 - [3-way Handshacking과 4-way Handshacking](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/3wayN4way.md)
 - TCP/IP
-  - [흐름제어 (Flow Control)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/flowControl.md)
-  - [혼잡제어 (Congestion Control)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/congestionControl.md)
+  - 흐름제어 (Flow Control)
+  - 혼잡제어 (Congestion Control)
 - [Blocking/Non-Blocking과 Synchronous/Asynchronous](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/blockNnonNsyncNasync.md)
 - [HTTP와 HTTPS](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/httpNhttps.md)
 - [로드 벨런싱 (Load-Balancing)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Network/loadBalancing.md)
@@ -53,11 +53,11 @@
 ## Data Structure
 
 - [ArrayList와 LinkedList](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/list.md)
-- [해시(Hash)와 해시충돌(Hash Collision)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/hash.md)
+- 해시(Hash)와 해시충돌(Hash Collision)
 - [트리(Tree)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/tree.md)
   - [이진 트리(Binary Tree)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/binaryTree.md)
   - [B-Tree, B\*Tree, B+Tree](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/bTree.md)
-- [힙 (Heap)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Data%20Structure/heap.md)
+- 힙 (Heap)
 
 ## Algorithm
 
@@ -66,8 +66,8 @@
   - [순열 (Permutation)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/permutation.md)
   - [조합 (Combination)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/combination.md)
 - 그래프 탐색
-  - [깊이 우선 탐색 (DFS)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dfs.md)
-  - [너비 우선 탐색 (BFS)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bfs.md)
+  - 깊이 우선 탐색 (DFS)
+  - 너비 우선 탐색 (BFS)
 - [단일 출발지 최단 경로 구하기 (Single-Source Shortest Path)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/shortestPath.md)
   - [다익스트라 알고리즘 (Dijkstra)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/dijkstra.md)
   - [벨만-포드 알고리즘 (Bellman-Ford)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/bellmanFord.md)
@@ -75,7 +75,7 @@
 - [카탈란 수 (Catalan Number)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/catalan.md)
 - [문자열 탐색](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/substring.md)
   - [KMP 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kmp.md)
-  - [Rabin-karp 알고리즘](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/rabinKarp.md)
+  - Rabin-karp 알고리즘
 - [최소 신장 트리 (MST)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/mst.md)
   - [크루스칼 알고리즘 (Kruskal)](https://github.com/lcomment/development-recipes/blob/main/Computer%20Science/Algorithm/kruskal.md)
 - 기하 알고리즘

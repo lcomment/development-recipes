@@ -37,7 +37,7 @@
 - Algorithm
 - Software Engineering
 
-</br>
+<br>
 
 ## **[📖 Programming Language Recipe](https://github.com/lcomment/development-recipes/blob/main/Language/programmingLanguage.md)**
 
@@ -47,7 +47,7 @@
 - Javascript
 - Typescript
 
-</br>
+<br>
 
 ## **[📖 DevOps and Cloud Recipe](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/devopsCloud.md)**
 
@@ -57,9 +57,9 @@
 - CI/CD
 - Terraform
 
-</br>
+<br>
 
-## **[📖 Web Basic Recipe](https://github.com/lcomment/development-recipes/blob/main/Cloud%20and%20DevOps/devopsCloud.md)**
+## **[📖 Web Basic Recipe](https://github.com/lcomment/development-recipes/blob/main/Web/webReadme.md)**
 
 - 웹의 동작원리
 - CORS란?

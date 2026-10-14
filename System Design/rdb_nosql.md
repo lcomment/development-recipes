@@ -270,7 +270,7 @@
   - 재샤딩이 필요한 경우
     - 데이터를 적재하는 도중, 현재의 샤드 개수로는 감당하기 힘들 경우
     - 샤드 간 데이터 분포가 균등하지 못할 경우
-  - 샤드 키를 계산하는 함수를 변경해야 하며 데이터를 재배치까지 하는 추가 작업이 필요 ([안정 해시](https://github.com/lcomment/development-recipes/blob/main/System%20Design/consistentHash.md))
+  - 샤드 키를 계산하는 함수를 변경해야 하며 데이터를 재배치까지 하는 추가 작업이 필요 ([안정 해시](https://github.com/lcomment/development-recipes/blob/main/System%20Design/안정_해시.md))
 - 유명인사 문제
   - 핫스팟 키(hotspot key) 문제라고도 불림
   - 특정 샤드에 질의가 집중되어 샤드 불균형이 발생하는 문제
