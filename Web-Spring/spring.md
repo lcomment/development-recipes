@@ -11,7 +11,7 @@
 - [Bean과 Bean 등록 방법](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/bean.md)
 - [BeanFactory와 BeanDefinition](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/basic/aboutBeanFactory.md)
 
-## Srping MVC
+## Spring MVC
 
 - [Spring MVC Framework란?](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/Spring%20MVC/springMvc.md)
 - [@Controller와 @RestController](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/controller.md)

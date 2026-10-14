@@ -78,9 +78,11 @@
 ## **[📖 Spring Framework Recipe](https://github.com/lcomment/development-recipes/blob/main/Web-Spring/spring.md)**
 
 - Spring & Spring Boot
-- Srping MVC
+- Spring MVC
+- Spring Security
 - MyBatis
 - JPA
+- Redis
 - Spring REST Docs
 - Test (JUnit, mockito, kotest)
 - Java 개발의 필수, Lombok
@@ -119,6 +121,7 @@
 - LLM 기초
 - RAG
 - AI 에이전트
+- MCP (Model Context Protocol)
 - AI 엔지니어링 패러다임
 - 실전 운영
 - Claude Code
